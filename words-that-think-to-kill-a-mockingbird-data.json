@@ -1,0 +1,2902 @@
+{
+  "vocab": [
+    {
+      "word": "assuaged",
+      "chapter": "Chapter 1",
+      "pron": "/əˈsweɪdʒd/",
+      "def_en": "Satisfied, relieved, or lessened (a feeling); to make an unpleasant feeling less intense.",
+      "def_zh": "缓解的;平息的;减轻的",
+      "quote_en": "When it healed, and Jem's fears of never being able to play football were assuaged, he was seldom self-conscious about his injury.",
+      "quote_zh": "等到伤痛痊愈，他也不再担惊受怕，唯恐永远也玩不成橄榄球之后，就很少想到自己受伤的事儿了。",
+      "ex_en": "The deepest wounds are not those that never heal, but those whose healing assuages our fears and transforms our scars into wisdom.",
+      "ex_zh": "最深的伤口并非永不愈合的那些，而是那些愈合后能缓解我们的恐惧，将伤疤转化为智慧的伤口。"
+    },
+    {
+      "word": "malevolent",
+      "chapter": "Chapter 1",
+      "pron": "/məˈlevələnt/",
+      "def_en": "Having or showing a wish to do evil to others; having an evil or harmful influence.",
+      "def_zh": "恶意的;恶毒的;有恶意的",
+      "quote_en": "Inside the house lived a malevolent phantom.",
+      "quote_zh": "房子里住着一个恶毒的幽灵。",
+      "ex_en": "Before we label another's heart as malevolent, we must first examine whether it is their nature or our fear that casts the shadow.",
+      "ex_zh": "在我们给别人的心贴上恶毒的标签之前，必须首先审视，投射出阴影的究竟是他们的本性，还是我们自己的恐惧。"
+    },
+    {
+      "word": "taciturn",
+      "chapter": "Chapter 1",
+      "pron": "/ˈtæsɪtɜːrn/",
+      "def_en": "Reserved or uncommunicative in speech; saying little; habitually silent.",
+      "def_zh": "沉默寡言的;不爱说话的",
+      "quote_en": "Their sister Alexandra was the Finch who remained at the Landing: she married a taciturn man who spent most of his time lying in a hammock by the river wondering if his trot-lines were full.",
+      "quote_zh": "留下来照料庄园的只有他们的姐妹亚历山德拉——她嫁给了一个沉默寡言的男人，那个男人大部分时间都躺在河边的吊床上，满脑子想的都是他布下的串钩上是不是挂满了鱼。",
+      "ex_en": "The taciturn soul speaks not from emptiness but from fullness, knowing that the deepest truths often transcend the reach of words.",
+      "ex_zh": "沉默寡言的灵魂并非因空洞而无言，而是因丰盈而沉默，深知最深的真理往往超越言辞所能及。"
+    },
+    {
+      "word": "impotent",
+      "chapter": "Chapter 1",
+      "pron": "/ˈɪmpətənt/",
+      "def_en": "Unable to take effective action; powerless or helpless; lacking strength or vigor.",
+      "def_zh": "无能为力的; powerless;无力的",
+      "quote_en": "Simon would have regarded with impotent fury the disturbance between the North and the South, as it left his descendants stripped of everything but their land.",
+      "quote_zh": "假如西蒙还在世，除了对这场战乱表示愤慨之外也只能无可奈何地摇头了，因为战乱让他的子孙后代除了土地之外一无所有。",
+      "ex_en": "In moments of impotent rage against forces beyond our control, we discover that our power lies not in changing the world, but in how we choose to meet it.",
+      "ex_zh": "在对无法控制的力量感到无能为力的愤怒时刻，我们发现自己的力量不在于改变世界，而在于选择如何面对它。"
+    },
+    {
+      "word": "unsullied",
+      "chapter": "Chapter 1",
+      "pron": "/ʌnˈsʌlɪd/",
+      "def_en": "Not spoiled, stained, or polluted; pure; untarnished.",
+      "def_zh": "未被玷污的;洁净的;清白的",
+      "quote_en": "Atticus's office in the courthouse contained little more than a hat rack, a spittoon, a checkerboard and an unsullied Code of Alabama.",
+      "quote_zh": "阿迪克斯的办公室在县政府大楼里，里面除了一个衣帽架、一只痰盂、一副棋盘和一本洁净如新的亚拉巴马州法典之外，几乎再没有别的东西。",
+      "ex_en": "A conscience kept unsullied is worth more than all the riches acquired by those who traded their integrity for temporary gain.",
+      "ex_zh": "保持清白的良心，胜过所有那些以正直换取短暂利益的人所获得的财富。"
+    },
+    {
+      "word": "auspicious",
+      "chapter": "Chapter 2",
+      "pron": "/ɔːˈspɪʃəs/",
+      "def_en": "Conducive to success; favorable; giving or being a sign of future success.",
+      "def_zh": "吉利的;吉祥的;顺利的",
+      "quote_en": "The remainder of my schooldays were no more auspicious than the first.",
+      "quote_zh": "我此后的学校生活和开学第一天相比并没有起色。",
+      "ex_en": "Not every beginning is auspicious, but every journey offers the chance to transform misfortune into the compass that guides us home.",
+      "ex_zh": "并非每个开端都吉祥如意，但每一段旅程都提供了机会，将不幸转化为指引我们回家的罗盘。"
+    },
+    {
+      "word": "indigenous",
+      "chapter": "Chapter 2",
+      "pron": "/ɪnˈdɪdʒənəs/",
+      "def_en": "Originating or occurring naturally in a particular place; native.",
+      "def_zh": "本土的;土生土长的;固有的",
+      "quote_en": "The class murmured apprehensively, should she prove to harbor her share of the peculiarities indigenous to that region.",
+      "quote_zh": "教室里立刻响起了一阵不安的嘀嘀咕咕声，因为大家担心她将来会暴露出与生俱来的地域特征。",
+      "ex_en": "The prejudices indigenous to any place run deeper than laws, yet it is the courage of individuals that slowly erodes mountains of ignorance.",
+      "ex_zh": "任何地方固有的偏见都比法律更深，然而正是个体的勇气，才能慢慢侵蚀无知的群山。"
+    },
+    {
+      "word": "condescended",
+      "chapter": "Chapter 2",
+      "pron": "/ˌkɒndɪˈsendɪd/",
+      "def_en": "Showed feelings of superiority; did something in a patronizing way; deliberately lowered oneself to a level considered less important.",
+      "def_zh": "屈尊;俯就;表现出优越感",
+      "quote_en": "Jem condescended to take me to school the first day, a job usually done by one's parents.",
+      "quote_zh": "开学第一天，杰姆屈尊带我去学校——一般来说，这是父母亲的职责。",
+      "ex_en": "The truly great never condescend, for they know that every soul they meet is a universe unto itself, deserving of equal honor.",
+      "ex_zh": "真正伟大的人从不屈尊俯就，因为他们知道，他们遇到的每一个灵魂都是一个自成一体的宇宙，值得同等的尊重。"
+    },
+    {
+      "word": "profane",
+      "chapter": "Chapter 2",
+      "pron": "/prəˈfeɪn/",
+      "def_en": "Showing contempt or disrespect for sacred things; blasphemous; vulgar and coarse.",
+      "def_zh": "亵渎的;不敬神的;粗俗的",
+      "quote_en": "He was charged with using abusive and profane language in the presence and hearing of a female.",
+      "quote_zh": "以及在女性面前使用粗鲁污秽的语言。",
+      "ex_en": "Words become profane not when they name the body, but when they diminish the soul that dwells within it.",
+      "ex_zh": "言语变得粗俗，并非因为它们命名了身体，而是因为它们贬低了栖居于身体之内的灵魂。"
+    },
+    {
+      "word": "diminutive",
+      "chapter": "Chapter 2",
+      "pron": "/dɪˈmɪnjətɪv/",
+      "def_en": "Extremely or unusually small; tiny.",
+      "def_zh": "极小的;微小的;矮小的",
+      "quote_en": "He was among the most diminutive of men, but when Burris Ewell turned toward him, Little Chuck's right hand went to his pocket.",
+      "quote_zh": "他本人就是个十足的小个子，可是当巴里斯·尤厄尔转向他的时候，他把右手伸进了口袋里。",
+      "ex_en": "The diminutive in stature often possess hearts large enough to hold the whole world's sorrow and still find room for courage.",
+      "ex_zh": "身材矮小的人，往往拥有足以容纳全世界悲伤、却仍能为勇气留出空间的宽广心灵。"
+    },
+    {
+      "word": "contentious",
+      "chapter": "Chapter 3",
+      "pron": "/kənˈtenʃəs/",
+      "def_en": "Causing or likely to cause disagreement or argument; quarrelsome.",
+      "def_zh": "有争议的;爱争论的;好争吵的",
+      "quote_en": "\"Ain't got no mother,\" was the answer, \"and their paw's right contentious.\"",
+      "quote_zh": "“他们没有妈，”回答是，“他们的爹是个很难缠的人。”",
+      "ex_en": "The contentious heart builds walls with every argument; the peaceful heart builds bridges with every word of understanding.",
+      "ex_zh": "好争论的心用每一次争辩筑起高墙；平和的心用每一句理解的话语架起桥梁。"
+    },
+    {
+      "word": "vaguely",
+      "chapter": "Chapter 3",
+      "pron": "/ˈveɪɡli/",
+      "def_en": "In a way that is uncertain, indefinite, or unclear; roughly or approximately.",
+      "def_zh": "模糊地;隐约地;大致上",
+      "quote_en": "Walter Cunningham was sitting there lying his head off. He didn't forget his lunch, he didn't have any.",
+      "quote_zh": "沃尔特·坎宁安坐在那儿睁眼说瞎话。他不是忘了带午饭，而是压根儿就没有午饭。",
+      "ex_en": "We feel vaguely what we cannot yet understand, and in that feeling lies the seed of all knowing.",
+      "ex_zh": "我们模糊地感受到那些尚不能理解的事物，而在这感受之中，蕴藏着一切认知的种子。"
+    },
+    {
+      "word": "entailment",
+      "chapter": "Chapter 3",
+      "pron": "/ɪnˈteɪlmənt/",
+      "def_en": "A legal term referring to property that is limited in inheritance to a specific line of heirs.",
+      "def_zh": "限嗣继承;限定继承",
+      "quote_en": "My special knowledge of the Cunningham tribe- one branch, that is- was gained from events of last winter. Walter's father was one of Atticus's clients. After a dreary conversation in our livingroom one night about his entailment, before Mr. Cunningham left he said, \"Mr. Finch, I don't know when I'll ever be able to pay you.\"",
+      "quote_zh": "我对坎宁安家族，或者说其中的一支，有着非同一般的了解，这是因为去年冬天发生的几件事情。沃尔特的父亲是阿迪克斯的一位客户。一天晚上，他们两人在我们家的客厅里说起坎宁安家的限嗣继承问题。那是一次沉闷的谈话，坎宁安先生临走时说：“芬奇先生，我真不知道什么时候才能付你钱。”",
+      "ex_en": "Entailment binds land to bloodline, but no legal chain can bind the human spirit's yearning for freedom and dignity.",
+      "ex_zh": "限嗣继承将土地与血脉绑定，但没有任何法律锁链能够束缚人类精神对自由和尊严的渴望。"
+    },
+    {
+      "word": "onslaught",
+      "chapter": "Chapter 3",
+      "pron": "/ˈɒnslɔːt/",
+      "def_en": "A fierce or destructive attack; a large quantity of people or things that are difficult to deal with.",
+      "def_zh": "猛攻;冲击;大量涌入",
+      "quote_en": "His fists were half cocked, as if expecting an onslaught from both of us.",
+      "quote_zh": "他半举着两只拳头，那架势像是随时防备我们俩发动攻击。",
+      "ex_en": "Every great truth faces an onslaught of denial before it is finally accepted as obvious.",
+      "ex_zh": "每一个伟大的真理在被最终接受为显而易见之前，都会面临一波又一波的否认。"
+    },
+    {
+      "word": "compromise",
+      "chapter": "Chapter 3",
+      "pron": "/ˈkɑːmprəmaɪz/",
+      "def_en": "An agreement or settlement of a dispute that is reached by each side making concessions.",
+      "def_zh": "妥协;和解;折中",
+      "quote_en": "\"Do you know what a compromise is?\" he asked. \"Bending the law?\" \"No, an agreement reached by mutual concessions.\"",
+      "quote_zh": "“你知道什么是妥协吗？”他问。“绕开法律？”“不对。是彼此都退让一步，达成一致意见。”",
+      "ex_en": "The noblest compromises are not those that surrender principle, but those that find a way for principle to live alongside love.",
+      "ex_zh": "最高尚的妥协不是放弃原则，而是找到一种让原则与爱共存的方式。"
+    },
+    {
+      "word": "vapid",
+      "chapter": "Chapter 4",
+      "pron": "/ˈvæpɪd/",
+      "def_en": "Offering nothing stimulating or challenging; bland, dull, uninspired.",
+      "def_zh": "乏味的;无趣的;平淡无奇的",
+      "quote_en": "But by the end of August our repertoire was vapid from countless reproductions.",
+      "quote_zh": "可是，到了八月底，我们的保留剧目因为无数次反复上演而变得平淡无奇了。",
+      "ex_en": "A vapid life, repeated without reflection, becomes a prison of our own making, until we dare to write a new script.",
+      "ex_zh": "缺乏思考、不断重复的乏味生活，会变成我们自己建造的牢笼，直到我们敢于写下新的剧本。"
+    },
+    {
+      "word": "erratic",
+      "chapter": "Chapter 4",
+      "pron": "/ɪˈrætɪk/",
+      "def_en": "Not even or regular in pattern or movement; unpredictable; inconsistent.",
+      "def_zh": "不稳定的;古怪的;反复无常的",
+      "quote_en": "When Calpurnia was furious, her grammar became erratic.",
+      "quote_zh": "每当卡波妮火冒三丈的时候，她的语法就变得很古怪。",
+      "ex_en": "An erratic path through life may lead to discoveries that straight roads never reveal.",
+      "ex_zh": "人生中一条曲折的道路，可能会引领我们发现笔直大路永远无法揭示的东西。"
+    },
+    {
+      "word": "arbitrated",
+      "chapter": "Chapter 4",
+      "pron": "/ˈɑːrbɪtreɪtɪd/",
+      "def_en": "Acted as a judge or mediator in a dispute; settled a disagreement.",
+      "def_zh": "仲裁;公断;调解",
+      "quote_en": "Jem arbitrated, awarded me first push with an extra time for Dill.",
+      "quote_zh": "杰姆做出裁决，让我先滚第一圈，迪尔可以多玩一次。",
+      "ex_en": "The wise arbitrate not by taking sides, but by seeing the truth that lies between them.",
+      "ex_zh": "明智的仲裁不是选边站，而是看见存在于双方之间的真相。"
+    },
+    {
+      "word": "torment",
+      "chapter": "Chapter 4",
+      "pron": "/ˈtɔːrment/",
+      "def_en": "Severe physical or mental suffering; agony; torture.",
+      "def_zh": "折磨;痛苦;苦难",
+      "quote_en": "I sometimes felt a twinge of remorse, when passing by the old place, at ever having taken part in what must have been sheer torment to Arthur Radley.",
+      "quote_zh": "有时候，我从那个老地方经过，一想起自己参与过的闹剧，心里不免一阵愧疚。对于阿瑟·拉德利来说，我们的窥探纯粹是一种折磨。",
+      "ex_en": "The greatest torment is not the pain we feel, but the pain we cause others without ever knowing it.",
+      "ex_zh": "最大的痛苦不是我们感受到的痛苦，而是我们给别人造成的、自己却浑然不知的痛苦。"
+    },
+    {
+      "word": "repertoire",
+      "chapter": "Chapter 4",
+      "pron": "/ˈrepərtwɑːr/",
+      "def_en": "A stock of plays, dances, or pieces that a company or performer knows or is prepared to perform; the range of skills or aptitudes.",
+      "def_zh": "剧目; repertoire;全部技能",
+      "quote_en": "But by the end of August our repertoire was vapid from countless reproductions.",
+      "quote_zh": "可是，到了八月底，我们的保留剧目因为无数次反复上演而变得平淡无奇了。",
+      "ex_en": "The repertoire of the human heart includes sorrow and joy, fear and courage, and the greatest challenge is knowing which to perform.",
+      "ex_zh": "人类内心的剧目包含了悲伤与喜悦、恐惧与勇气，而最大的挑战是知道该上演哪一出。"
+    },
+    {
+      "word": "edification",
+      "chapter": "Chapter 5",
+      "pron": "/ˌedɪfɪˈkeɪʃn/",
+      "def_en": "The instruction or improvement of a person morally or intellectually.",
+      "def_zh": "教诲;启迪;教化",
+      "quote_en": "\"So that was what you were doing, wasn't it? Putting his life's history on display for the edification of the neighborhood.\"",
+      "quote_zh": "“这么说，你们一直都在忙活这个，是不是？把他的个人经历编进戏里表演给街坊邻居看，让大家从中受到启发。”",
+      "ex_en": "True edification comes not from those who claim to teach, but from the quiet lives of those who simply live with integrity, asking nothing in return.",
+      "ex_zh": "真正的启迪并非来自那些声称要教导我们的人，而是来自那些只是正直地活着、不求任何回报的安静生命。"
+    },
+    {
+      "word": "asinine",
+      "chapter": "Chapter 5",
+      "pron": "/ˈæsɪnaɪn/",
+      "def_en": "Extremely stupid or foolish.",
+      "def_zh": "愚蠢的;傻的",
+      "quote_en": "\"Furthermore, had it never occurred to us that the civil way to communicate with another being was by the front door instead of a side window? Lastly, we were to stay away from that house until we were invited there, we were not to play an asinine game he had seen us playing.\"",
+      "quote_zh": "“难道我们脑子里没有闪过一丝念头，根本没有想到与人交往的体面做法是走前门，而不是通过侧面的窗户吗？最后他明令禁止我们再靠近那座房子，除非受人之邀；不许再演那出愚蠢的戏——上次他就把我们抓了个正着。”",
+      "ex_en": "The most asinine mistakes are those we make believing ourselves too wise to learn from others.",
+      "ex_zh": "最愚蠢的错误，莫过于那些我们自认为聪明到无需向他人学习而犯下的错。"
+    },
+    {
+      "word": "inquisitive",
+      "chapter": "Chapter 5",
+      "pron": "/ɪnˈkwɪzətɪv/",
+      "def_en": "Curious or inquiring; overly curious; prying.",
+      "def_zh": "好奇的;爱打听的;求知欲强的",
+      "quote_en": "What Mr. Radley did was his own business. If he wanted to stay inside his own house he had the right to stay inside free from the attentions of inquisitive children.",
+      "quote_zh": "拉德利先生做什么是他自己的事情。他想闭门不出，他也有权利待在屋子里，避开那些喜欢追根究底的孩子。",
+      "ex_en": "An inquisitive mind is a gift, but wisdom lies in knowing which doors to open and which to leave undisturbed.",
+      "ex_zh": "好奇的头脑是天赋，但智慧在于知道哪些门该打开，哪些该保持原样。"
+    },
+    {
+      "word": "benevolence",
+      "chapter": "Chapter 5",
+      "pron": "/bəˈnevələns/",
+      "def_en": "The quality of being well-meaning; kindness; goodwill; an act of kindness.",
+      "def_zh": "仁慈;善行;善意",
+      "quote_en": "Miss Maudie's benevolence extended to Jem and Dill, whenever they paused in their pursuits.",
+      "quote_zh": "每当杰姆和迪尔停下他们热衷的把戏，莫迪小姐的慈爱也会惠及他们俩。",
+      "ex_en": "Small acts of benevolence are the invisible threads that weave a community into a family.",
+      "ex_zh": "小小的善行是将一个社区编织成一个家庭的无形之线。"
+    },
+    {
+      "word": "cordially",
+      "chapter": "Chapter 5",
+      "pron": "/ˈkɔːrdʒəli/",
+      "def_en": "In a warm and friendly way; politely; with sincere friendliness.",
+      "def_zh": "诚恳地;友善地;诚挚地",
+      "quote_en": "With a click of her tongue she thrust out her bridgework, a gesture of cordiality that cemented our friendship.",
+      "quote_zh": "只听她的舌头发出咔嗒一声，整副假牙弹了出来。这个热诚的举动加深了我们之间的友谊。",
+      "ex_en": "To greet another cordially is to say, without words, that in this moment they matter more than any task or worry.",
+      "ex_zh": "诚恳地问候他人，是用无言的方式告诉他们，在这一刻，他们比任何任务或烦恼都更重要。"
+    },
+    {
+      "word": "reverent",
+      "chapter": "Chapter 6",
+      "pron": "/ˈrevərənt/",
+      "def_en": "Showing deep respect and awe; feeling or showing reverence.",
+      "def_zh": "恭敬的;虔诚的;崇敬的",
+      "quote_en": "\"God Almighty.\" Jem's voice was reverent.",
+      "quote_zh": "“万能的上帝啊。”杰姆的惊呼声充满了敬畏。",
+      "ex_en": "Silence is the most reverent prayer, for it asks nothing and receives everything.",
+      "ex_zh": "静默是最虔诚的祈祷，因为它一无所求，却获得一切。"
+    },
+    {
+      "word": "assurance",
+      "chapter": "Chapter 6",
+      "pron": "/əˈʃʊrəns/",
+      "def_en": "A positive declaration intended to give confidence; a promise; confidence or certainty in one's own abilities.",
+      "def_zh": "保证;自信;把握",
+      "quote_en": "Despite his assurances, I knew he was afraid.",
+      "quote_zh": "尽管他一再保证，可我知道他害怕了。",
+      "ex_en": "True assurance comes not from knowing the outcome, but from knowing who we are regardless of the outcome.",
+      "ex_zh": "真正的保证不是来自知道结果，而是来自无论结果如何都知道自己是谁。"
+    },
+    {
+      "word": "acquiescence",
+      "chapter": "Chapter 6",
+      "pron": "/ˌækwiˈesns/",
+      "def_en": "The reluctant acceptance of something without protest; passive agreement.",
+      "def_zh": "默许;顺从; acquiescence",
+      "quote_en": "We were accustomed to prompt, if not always cheerful acquiescence to Atticus's instructions.",
+      "quote_zh": "对于阿迪克斯发出的命令，我们虽然并不总是心甘情愿地接受，但也已经习惯了马上照办。",
+      "ex_en": "True strength is not found in constant resistance, but in knowing when acquiescence serves a higher purpose.",
+      "ex_zh": "真正的力量不在于不断的抵抗，而在于知道何时默许服务于更高的目的。"
+    },
+    {
+      "word": "vaguely",
+      "chapter": "Chapter 6",
+      "pron": "/ˈveɪɡli/",
+      "def_en": "In a way that is uncertain, indefinite, or unclear; roughly or approximately.",
+      "def_zh": "模糊地;隐约地;大致上",
+      "quote_en": "\"I have this feeling,\" Jem said, \"just this feeling.\"",
+      "quote_zh": "“我只是有一种预感，”杰姆说，“只是一种预感。”",
+      "ex_en": "We feel vaguely what we cannot yet understand, and in that feeling lies the seed of all knowing.",
+      "ex_zh": "我们模糊地感受到那些尚不能理解的事物，而在这感受之中，蕴藏着一切认知的种子。"
+    },
+    {
+      "word": "perplexity",
+      "chapter": "Chapter 7",
+      "pron": "/pərˈpleksəti/",
+      "def_en": "Inability to deal with or understand something; confusion; bewilderment.",
+      "def_zh": "困惑;茫然;费解",
+      "quote_en": "Miss Maudie looked at me with an expression of mild perplexity.",
+      "quote_zh": "莫迪小姐看着我，脸上带着一丝温和的困惑。",
+      "ex_en": "In moments of perplexity, the soul grows room for wisdom that certainty could never hold.",
+      "ex_zh": "在困惑的时刻，灵魂为确定性永远无法容纳的智慧腾出了空间。"
+    },
+    {
+      "word": "contemptuous",
+      "chapter": "Chapter 7",
+      "pron": "/kənˈtemptʃuəs/",
+      "def_en": "Showing contempt; scornful; disdainful.",
+      "def_zh": "轻蔑的;鄙视的;表示轻蔑的",
+      "quote_en": "Burris Ewell gave a short contemptuous snort.",
+      "quote_zh": "巴里斯·尤厄尔轻蔑地哼了一声。",
+      "ex_en": "The contemptuous heart builds walls so high that even love cannot scale them.",
+      "ex_zh": "轻蔑的心筑起高墙，连爱都无法翻越。"
+    },
+    {
+      "word": "scowling",
+      "chapter": "Chapter 7",
+      "pron": "/ˈskaʊlɪŋ/",
+      "def_en": "Frowning in an angry or bad-tempered way; showing displeasure.",
+      "def_zh": "皱眉头的;怒容满面的",
+      "quote_en": "Jem scowled triumphantly.",
+      "quote_zh": "杰姆摆出一副耀武扬威的样子，冲我皱起眉头。",
+      "ex_en": "A scowling face may be the mask worn by a heart deep in thought, wrestling with truths not yet born into words.",
+      "ex_zh": "皱眉的面孔，可能是一颗深陷沉思的心所戴的面具，它在与尚未化为言辞的真相搏斗。"
+    },
+    {
+      "word": "meditative",
+      "chapter": "Chapter 7",
+      "pron": "/ˈmedɪteɪtɪv/",
+      "def_en": "Expressing or involving deep thought; reflective; contemplative.",
+      "def_zh": "沉思的;冥想的; meditative",
+      "quote_en": "He gave it a meditative pat on its cement, and remained deep in thought.",
+      "quote_zh": "他若有所思地拍了拍树上的水泥，仍然是一副思虑重重的样子。",
+      "ex_en": "The meditative soul knows that the deepest answers are found not in rushing, but in stillness.",
+      "ex_zh": "沉思的灵魂知道，最深的答案不是在匆忙中，而是在静默中找到的。"
+    },
+    {
+      "word": "perpetrated",
+      "chapter": "Chapter 8",
+      "pron": "/ˈpɜːrpətreɪtɪd/",
+      "def_en": "Committed or carried out (a harmful, illegal, or immoral action).",
+      "def_zh": "犯下;实施(有害、违法或不道德的行为)",
+      "quote_en": "You've perpetrated a near libel here in the front yard.",
+      "quote_zh": "你几乎在我们家前院里犯下了一起诽谤罪。",
+      "ex_en": "The greatest wrongs are perpetrated not by monsters, but by ordinary people who have forgotten that others are human too.",
+      "ex_zh": "最大的错误并非由怪物犯下，而是由那些忘记了他人同样为人的普通人所造成。"
+    },
+    {
+      "word": "prophets",
+      "chapter": "Chapter 8",
+      "pron": "/ˈprɑːfɪts/",
+      "def_en": "People regarded as inspired teachers or proclaimers of the will of God; people who predict the future.",
+      "def_zh": "先知;预言者;倡导者",
+      "quote_en": "For reasons unfathomable to the most experienced prophets in Maycomb County, autumn turned to winter that year.",
+      "quote_zh": "那年的秋天出乎意料地过渡到了冬天，就连梅科姆资历最深的预言家也琢磨不透到底是什么原因。",
+      "ex_en": "The truest prophets are not those who predict the future, but those who see clearly the present and speak its truth.",
+      "ex_zh": "最真实的先知不是那些预测未来的人，而是那些看清当下、说出其真相的人。"
+    },
+    {
+      "word": "unsociable",
+      "chapter": "Chapter 8",
+      "pron": "/ʌnˈsoʊʃəbl/",
+      "def_en": "Not enjoying or making an effort to behave sociably in the company of others.",
+      "def_zh": "不爱交际的;不合群的;孤僻的",
+      "quote_en": "The Radleys kept to themselves, a predilection some called unsociable.",
+      "quote_zh": "拉德利一家离群索居，有些人称之为孤僻。",
+      "ex_en": "The unsociable soul may not crave company, but that does not mean it does not crave love.",
+      "ex_zh": "不爱交际的灵魂可能不渴望陪伴，但这并不意味着它不渴望爱。"
+    },
+    {
+      "word": "auspicious",
+      "chapter": "Chapter 8",
+      "pron": "/ɔːˈspɪʃəs/",
+      "def_en": "Conducive to success; favorable; giving or being a sign of future success.",
+      "def_zh": "吉利的;吉祥的;顺利的",
+      "quote_en": "The snow was not an auspicious beginning for her azaleas.",
+      "quote_zh": "这场雪对她的杜鹃花来说可不是个吉利的开端。",
+      "ex_en": "Not every beginning is auspicious, but every ending holds the seed of a new beginning.",
+      "ex_zh": "并非每个开端都吉祥如意，但每个结局都蕴藏着新开始的种子。"
+    },
+    {
+      "word": "morphodite",
+      "chapter": "Chapter 8",
+      "pron": "/ˈmɔːrfədaɪt/",
+      "def_en": "(Colloquial, humorous) A misspoken or childish term for \"hermaphrodite\"; used here to describe a mixed-up snowman.",
+      "def_zh": "阴阳人;两性人(口语化幽默用法)",
+      "quote_en": "\"You've erected an absolute morphodite in that yard\\! Atticus, you'll never raise 'em\\!\"",
+      "quote_zh": "“在你家院子里竖了个半男不女的阴阳人！阿迪克斯，你永远也管教不好他们！”",
+      "ex_en": "Sometimes our most misspoken words reveal the playfulness of the human heart, finding humor even in the simplest joys.",
+      "ex_zh": "有时我们最说错的话语，反而揭示了人类心灵的趣味，在最简单的快乐中找到幽默。"
+    },
+    {
+      "word": "inordinately",
+      "chapter": "Chapter 9",
+      "pron": "/ɪnˈɔːrdɪnətli/",
+      "def_en": "Excessively; to an unusually or disproportionately large degree.",
+      "def_zh": "过度地;异常地",
+      "quote_en": "Cousin Ike Finch was inordinately vain about his General Hood type beard, of which he was inordinately vain.",
+      "quote_zh": "他留着胡德将军式的络腮胡子，并且颇引以为豪。",
+      "ex_en": "We cling inordinately to appearances, not knowing that what we grasp so tightly slips through our fingers, while what we release freely returns to us transformed.",
+      "ex_zh": "我们过度执着于表象，殊不知我们紧抓不放的会从指缝间溜走，而我们自由释放的，会以另一种形式回到我们身边。"
+    },
+    {
+      "word": "provocation",
+      "chapter": "Chapter 9",
+      "pron": "/ˌprɑːvəˈkeɪʃn/",
+      "def_en": "Action or speech that makes someone annoyed or angry, especially deliberately.",
+      "def_zh": "挑衅;激怒;刺激",
+      "quote_en": "\"You told me never to use words like that except in extreme provocation, and Francis provocated me enough to knock his block off.\"",
+      "quote_zh": "“你告诉过我，只有在极端愤怒的情况下才可以使用那些骂人的字眼儿，当时弗朗西斯就让我气得火冒三丈，恨不得一拳打掉他的脑袋。”",
+      "ex_en": "The greatest provocation to anger is often not the words of another, but the wound within ourselves that their words touch.",
+      "ex_zh": "对愤怒最大的挑衅，往往不是别人的话，而是我们内心的伤口被他们的话触动了。"
+    },
+    {
+      "word": "umbrage",
+      "chapter": "Chapter 9",
+      "pron": "/ˈʌmbrɪdʒ/",
+      "def_en": "Offense or annoyance; resentment; a feeling of pique.",
+      "def_zh": "不快;生气;怨恨",
+      "quote_en": "I wasn't sure what Jem resented most, but I took umbrage at Mrs. Dubose's assessment of the family's mental hygiene.",
+      "quote_zh": "我不知道最让杰姆气愤的是什么，反正最让我愤慨的是杜博斯太太对我们家族的精神健康做出那样的评价。",
+      "ex_en": "To take umbrage at every slight is to carry a burden too heavy for any soul; forgiveness lightens not only our step but the world itself.",
+      "ex_zh": "对每一次冒犯都心怀怨恨，是背负任何灵魂都无法承受的重担；宽恕不仅能让我们步履轻盈，也能让世界本身变得更美好。"
+    },
+    {
+      "word": "compromise",
+      "chapter": "Chapter 9",
+      "pron": "/ˈkɑːmprəmaɪz/",
+      "def_en": "An agreement or settlement of a dispute that is reached by each side making concessions.",
+      "def_zh": "妥协;和解;折中",
+      "quote_en": "\"Do you know what a compromise is?\" he asked. \"An agreement reached by mutual concessions.\"",
+      "quote_zh": "“你知道什么是妥协吗？”他问。“是彼此都退让一步，达成一致意见。”",
+      "ex_en": "The noblest compromises are not those that surrender principle, but those that find a way for principle to live alongside love.",
+      "ex_zh": "最高尚的妥协不是放弃原则，而是找到一种让原则与爱共存的方式。"
+    },
+    {
+      "word": "dictum",
+      "chapter": "Chapter 9",
+      "pron": "/ˈdɪktəm/",
+      "def_en": "A formal pronouncement from an authoritative source; a short statement that expresses a general truth or principle.",
+      "def_zh": "宣言;正式声明;格言",
+      "quote_en": "\"I'm trying to tell you the facts of life.\"",
+      "quote_zh": "“我在试图告诉你生活的真相。”",
+      "ex_en": "A father's dictum, spoken in love, becomes the compass by which a child navigates the world.",
+      "ex_zh": "父亲出于爱所说的箴言，会成为孩子 navigating 世界的指南针。"
+    },
+    {
+      "word": "feeble",
+      "chapter": "Chapter 10",
+      "pron": "/ˈfiːbl/",
+      "def_en": "Lacking physical strength, especially as a result of age or illness; weak.",
+      "def_zh": "虚弱的;无力的;衰弱的",
+      "quote_en": "Atticus was feeble: he was nearly fifty.",
+      "quote_zh": "阿迪克斯身体有些衰弱——他都快五十岁了。",
+      "ex_en": "True strength is not found in the muscles that can lift the heaviest weight, but in the spirit that can bear the heaviest burden without breaking.",
+      "ex_zh": "真正的力量不在于能举起最重重量的肌肉，而在于能承受最重负担而不崩溃的精神。"
+    },
+    {
+      "word": "contemporaries",
+      "chapter": "Chapter 10",
+      "pron": "/kənˈtempəreriz/",
+      "def_en": "People living or existing at the same time as another; people of the same age.",
+      "def_zh": "同代人;同龄人",
+      "quote_en": "He was much older than the parents of our school contemporaries.",
+      "quote_zh": "他比学校里与我们同龄的孩子的父母亲都要老。",
+      "ex_en": "We measure ourselves against our contemporaries, forgetting that each soul runs its own race on its own track.",
+      "ex_zh": "我们以同龄人为尺度衡量自己，却忘记了每个灵魂都在自己的赛道上跑着自己的比赛。"
+    },
+    {
+      "word": "inconspicuous",
+      "chapter": "Chapter 10",
+      "pron": "/ˌɪnkənˈspɪkjuəs/",
+      "def_en": "Not conspicuous; not attracting attention; not easily seen.",
+      "def_zh": "不显眼的;不引人注目的",
+      "quote_en": "With these attributes, however, he would not remain as inconspicuous as we wished him to be.",
+      "quote_zh": "尽管如此，他也没有如我们所愿始终保持低调。",
+      "ex_en": "The most powerful forces in nature are often inconspicuous: the root beneath the soil, the love behind the sacrifice.",
+      "ex_zh": "自然界最强大的力量往往是不显眼的：土壤下的根，牺牲背后的爱。"
+    },
+    {
+      "word": "marksmanship",
+      "chapter": "Chapter 10",
+      "pron": "/ˈmɑːrksmənʃɪp/",
+      "def_en": "The skill of shooting accurately at a target; shooting skill.",
+      "def_zh": "射击术;枪法",
+      "quote_en": "\"Marksmanship's a gift of God, a talent,\" Miss Maudie said.",
+      "quote_zh": "“好枪法是上天赐予的天赋，是一种才能。”莫迪小姐说。",
+      "ex_en": "Marksmanship may be a gift, but the courage to lay down the gift when it gives unfair advantage is a choice.",
+      "ex_zh": "好枪法可能是天赋，但放下这天赋以免获得不公平优势的勇气，是一种选择。"
+    },
+    {
+      "word": "attributes",
+      "chapter": "Chapter 10",
+      "pron": "/ˈætrɪbjuːts/",
+      "def_en": "Qualities or features regarded as characteristic or inherent.",
+      "def_zh": "属性;特质;品质",
+      "quote_en": "With these attributes, however, he would not remain as inconspicuous as we wished him to be.",
+      "quote_zh": "尽管如此，他也没有如我们所愿始终保持低调。",
+      "ex_en": "Our attributes are not chosen for us, but how we wield them is our life's great work.",
+      "ex_zh": "我们的特质并非由我们选择，但如何运用它们是我们一生的大业。"
+    },
+    {
+      "word": "apoplectic",
+      "chapter": "Chapter 11",
+      "pron": "/ˌæpəˈplektɪk/",
+      "def_en": "Overcome with anger; extremely angry; relating to or suffering from apoplexy.",
+      "def_zh": "暴怒的;极其愤怒的",
+      "quote_en": "Once she heard Jem refer to our father as \"Atticus\" and her reaction was apoplectic.",
+      "quote_zh": "有一次，她听见杰姆管我们的父亲叫“阿迪克斯”，气得差点儿中风。",
+      "ex_en": "The apoplectic fury of those who cling to old ways is but the death rattle of prejudice, signaling not strength but the fear of inevitable change.",
+      "ex_zh": "那些固守旧习之人的暴怒，不过是偏见临死前的喘息，宣告的并非力量，而是对不可避免之变化的恐惧。"
+    },
+    {
+      "word": "philippic",
+      "chapter": "Chapter 11",
+      "pron": "/fɪˈlɪpɪk/",
+      "def_en": "A bitter attack or denunciation, especially a verbal one.",
+      "def_zh": "猛烈抨击;痛斥",
+      "quote_en": "We were followed up the sidewalk by a philippic on our family's moral degeneration.",
+      "quote_zh": "怒斥我们家族道德败坏的谩骂声不依不饶地追随着我们。",
+      "ex_en": "A philippic may silence an opponent, but it can never win a heart; that requires the quieter language of understanding.",
+      "ex_zh": "猛烈的抨击可以令对手沉默，却永远无法赢得人心；那需要更安静的、理解的语言。"
+    },
+    {
+      "word": "devoid",
+      "chapter": "Chapter 11",
+      "pron": "/dɪˈvɔɪd/",
+      "def_en": "Entirely lacking or free from; empty of.",
+      "def_zh": "完全没有的;缺乏的",
+      "quote_en": "Jem cultivated an expression of polite and detached interest, which he would present to her in answer to her most blood-curdling inventions, devoid of resentment.",
+      "quote_zh": "杰姆练就了一副礼貌而冷漠的表情，用来对付杜博斯太太捏造出来的那些最让人火冒三丈的诬蔑之词，脸上没有丝毫怨恨。",
+      "ex_en": "A heart devoid of resentment is not empty but full—full of space for understanding to grow.",
+      "ex_zh": "没有怨恨的心并非空虚，而是丰盈——充满了让理解生长的空间。"
+    },
+    {
+      "word": "cordiality",
+      "chapter": "Chapter 11",
+      "pron": "/ˌkɔːrdʒiˈæləti/",
+      "def_en": "Warm and friendly politeness; sincere kindness.",
+      "def_zh": "热诚;诚恳;友善",
+      "quote_en": "Miss Maudie's cordiality toward us never wavered, even in her darkest hours.",
+      "quote_zh": "莫迪小姐对我们的友善从未动摇，即使在她最黑暗的时刻。",
+      "ex_en": "True cordiality costs nothing but means everything; it is the currency of the heart.",
+      "ex_zh": "真正的友善不需代价，却意味一切；它是心灵的货币。"
+    },
+    {
+      "word": "vicious",
+      "chapter": "Chapter 11",
+      "pron": "/ˈvɪʃəs/",
+      "def_en": "Deliberately cruel or violent; extremely harsh or severe.",
+      "def_zh": "恶毒的;凶残的;剧烈的",
+      "quote_en": "She was vicious. Once she heard Jem refer to our father as \"Atticus\" and her reaction was apoplectic.",
+      "quote_zh": "她还是个恶毒的老太婆。有一次，她听见杰姆管我们的父亲叫“阿迪克斯”，气得差点儿中风。",
+      "ex_en": "Vicious words wound the speaker as deeply as the spoken, for they reveal the darkness the speaker carries within.",
+      "ex_zh": "恶毒的言语伤害说话者如同伤害被说者，因为它们揭示了说话者内心携带的黑暗。"
+    },
+    {
+      "word": "formidable",
+      "chapter": "Chapter 12",
+      "pron": "/ˈfɔːrmɪdəbl/",
+      "def_en": "Inspiring fear or respect through being impressively large, powerful, intense, or capable.",
+      "def_zh": "可怕的;令人敬畏的;难以对付的",
+      "quote_en": "Reverend Sykes was a formidable presence in the pulpit.",
+      "quote_zh": "塞克斯牧师站在讲道坛上，气势慑人。",
+      "ex_en": "The most formidable presence is not the loudest voice, but the quiet one that speaks truth without fear.",
+      "ex_zh": "最令人敬畏的存在不是最大的声音，而是那个毫不畏惧说出真相的安静声音。"
+    },
+    {
+      "word": "oppressive",
+      "chapter": "Chapter 12",
+      "pron": "/əˈpresɪv/",
+      "def_en": "Unjustly inflicting hardship and constraint; weighing heavily on the senses or spirit.",
+      "def_zh": "压迫的;压抑的;难以忍受的",
+      "quote_en": "An oppressive odor met us when we crossed the threshold, an odor I had met many times in rain-rotted gray houses where there are coal-oil lamps, water dippers, and unbleached domestic sheets.",
+      "quote_zh": "刚一迈进门槛，我们就感到一股窒闷的气味扑面而来，这种气味我在阴暗潮湿的老房子里经常闻见，屋里常常可以看到煤油灯、水舀子，还有没有漂洗过的床单被罩。",
+      "ex_en": "Oppressive silence can be louder than any shout, speaking volumes of what cannot be said.",
+      "ex_zh": "压抑的静默比任何呼喊都响亮，诉说着无法言说的一切。"
+    },
+    {
+      "word": "indignant",
+      "chapter": "Chapter 12",
+      "pron": "/ɪnˈdɪɡnənt/",
+      "def_en": "Feeling or showing anger or annoyance at what is perceived as unfair treatment.",
+      "def_zh": "愤慨的;愤怒的;义愤的",
+      "quote_en": "Calpurnia's indignant profile was unmistakable in the streetlight.",
+      "quote_zh": "路灯下，卡波妮愤怒的侧影清晰可见。",
+      "ex_en": "Righteous indignation can move mountains, but only when it is rooted in love, not merely in being wronged.",
+      "ex_zh": "义愤可以移山，但只有当它根植于爱，而不仅仅是因为被亏待时。"
+    },
+    {
+      "word": "sternly",
+      "chapter": "Chapter 12",
+      "pron": "/ˈstɜːrnli/",
+      "def_en": "In a serious and severe manner; strictly; harshly.",
+      "def_zh": "严厉地;严肃地;严格地",
+      "quote_en": "Judge Taylor looked sternly at the witness.",
+      "quote_zh": "泰勒法官严厉地看着证人。",
+      "ex_en": "To speak sternly to a child is sometimes necessary, but to love them sternly is always wrong.",
+      "ex_zh": "对孩子严厉地说话有时是必要的，但严厉地爱他们永远是错误的。"
+    },
+    {
+      "word": "linin'",
+      "chapter": "Chapter 12",
+      "pron": "/ˈlaɪnɪŋ/",
+      "def_en": "(Colloquial) A method of singing hymns where a leader reads or sings a line and the congregation repeats it, used in churches with limited access to hymnbooks.",
+      "def_zh": "逐行领读(唱诗方式)",
+      "quote_en": "\"Linin'?\" she asked. \"Is that what it is?\" \"Yeah, it's called linin'. They've done it that way as long as I can remember.\"",
+      "quote_zh": "“逐行领读？”她问。“是这么叫吗？”“嗯，就叫‘逐行领读’。从我记事起大家就是这么做的。”",
+      "ex_en": "In the absence of books, the voice becomes the vessel of faith, passed from one generation to the next through the simple act of call and response.",
+      "ex_zh": "在没有书本的地方，声音成为信仰的载体，通过简单的呼唤与回应，代代相传。"
+    },
+    {
+      "word": "formidable",
+      "chapter": "Chapter 13",
+      "pron": "/ˈfɔːrmɪdəbl/",
+      "def_en": "Inspiring fear or respect through being impressively large, powerful, intense, or capable.",
+      "def_zh": "可怕的;令人敬畏的;难以对付的",
+      "quote_en": "From any angle, it was formidable.",
+      "quote_zh": "不管从哪个角度看，她的体态都令人触目惊心。",
+      "ex_en": "The most formidable opponents we face are not those who stand against us, but the fears within us that whisper we are not enough.",
+      "ex_zh": "我们面对的最可怕的对手，并非那些站在我们对立面的人，而是我们内心低语着我们不够好的那些恐惧。"
+    },
+    {
+      "word": "prerogative",
+      "chapter": "Chapter 13",
+      "pron": "/prɪˈrɑːɡətɪv/",
+      "def_en": "A right or privilege exclusive to a particular individual or class.",
+      "def_zh": "特权;君权;独有的权利",
+      "quote_en": "Aunt Alexandra would exercise her royal prerogative: she would arrange, advise, caution, and warn.",
+      "quote_zh": "亚历山德拉姑姑会行使她那帝王一般的特权：去安排，去建议，去劝诫，去警告。",
+      "ex_en": "The greatest prerogative of age is not the right to advise, but the wisdom to know when silence serves better than words.",
+      "ex_zh": "年龄最大的特权不是提供建议的权利，而是知道何时沉默比言语更有用的智慧。"
+    },
+    {
+      "word": "incurable",
+      "chapter": "Chapter 13",
+      "pron": "/ɪnˈkjʊrəbl/",
+      "def_en": "Not able to be cured; not able to be healed or remedied.",
+      "def_zh": "无法治愈的;不可救药的",
+      "quote_en": "She was an incurable gossip.",
+      "quote_zh": "她是个不可救药的长舌妇。",
+      "ex_en": "The incurable flaw in human nature is not our tendency to gossip, but our willingness to believe it without question.",
+      "ex_zh": "人性中不可救药的缺陷不是我们八卦的倾向，而是我们不假思索就相信它的意愿。"
+    },
+    {
+      "word": "uncompromising",
+      "chapter": "Chapter 13",
+      "pron": "/ʌnˈkɑːmprəmaɪzɪŋ/",
+      "def_en": "Showing an unwillingness to make concessions; inflexible; unyielding.",
+      "def_zh": "不妥协的;坚定的;不让步的",
+      "quote_en": "Enarmored, upright, uncompromising, Aunt Alexandra was sitting in a rocking chair exactly as if she had sat there every day of her life.",
+      "quote_zh": "亚历山德拉姑姑坐在摇椅上，衣着严整，身姿笔直，一副神圣不可侵犯的样子，仿佛天天都坐在那里一般。",
+      "ex_en": "An uncompromising commitment to truth is noble, but only when tempered by an equally uncompromising commitment to love.",
+      "ex_zh": "对真理不妥协的承诺是高尚的，但只有当它被同样不妥协的爱的承诺调和时才是。"
+    },
+    {
+      "word": "obscurely",
+      "chapter": "Chapter 13",
+      "pron": "/əbˈskjʊrli/",
+      "def_en": "In a way that is not clearly expressed or easily understood; vaguely; not well known.",
+      "def_zh": "模糊地;晦涩地; obscure",
+      "quote_en": "\"Makes no difference if it's Saturday,\" she said obscurely.",
+      "quote_zh": "“如果这是星期六，也没什么区别，”她含糊其词地说。",
+      "ex_en": "Truth often speaks obscurely at first, like dawn, before it floods the world with light.",
+      "ex_zh": "真相最初往往像黎明一样模糊地诉说，然后才用光明淹没世界。"
+    },
+    {
+      "word": "melancholy",
+      "chapter": "Chapter 14",
+      "pron": "/ˈmelənkɑːli/",
+      "def_en": "A feeling of pensive sadness, typically with no obvious cause.",
+      "def_zh": "忧郁;悲伤;愁思",
+      "quote_en": "I stayed miserable for two days, lost in melancholy.",
+      "quote_zh": "我凄凄惨惨地过了两天，沉浸在忧郁之中。",
+      "ex_en": "Melancholy is not the enemy of joy but its companion, teaching us the depth of feeling that makes joy possible.",
+      "ex_zh": "忧郁不是快乐的敌人，而是它的伴侣，教会我们感受的深度，使快乐成为可能。"
+    },
+    {
+      "word": "ingenious",
+      "chapter": "Chapter 14",
+      "pron": "/ɪnˈdʒiːniəs/",
+      "def_en": "Clever, original, and inventive; showing ingenuity.",
+      "def_zh": "精巧的;巧妙的;有独创性的",
+      "quote_en": "Dill had hit upon an ingenious plan to make Boo Radley come out.",
+      "quote_zh": "迪尔想出了一个巧妙的方案，能把怪人拉德利引出来。",
+      "ex_en": "The most ingenious plans often fail, but the heart that dares to dream them is never defeated.",
+      "ex_zh": "最巧妙的计划往往失败，但敢于梦想它们的心永远不会被打败。"
+    },
+    {
+      "word": "stealthy",
+      "chapter": "Chapter 14",
+      "pron": "/ˈstelθi/",
+      "def_en": "Behaving, done, or made in a cautious and surreptitious manner, so as not to be seen or heard.",
+      "def_zh": "隐秘的;偷偷摸摸的;暗中的",
+      "quote_en": "There was something stealthy about hers, like a steady-eyed cat with a twitchy tail.",
+      "quote_zh": "她有点儿鬼鬼祟祟，像一只目光锁定目标的猫，尾巴急促地甩个不停。",
+      "ex_en": "The stealthy movements of the heart are often the most honest, revealing what we dare not speak aloud.",
+      "ex_zh": "心灵的隐秘活动往往是最诚实的，揭示了我们不敢大声说出的一切。"
+    },
+    {
+      "word": "perplexity",
+      "chapter": "Chapter 14",
+      "pron": "/pərˈpleksəti/",
+      "def_en": "Inability to deal with or understand something; confusion; bewilderment.",
+      "def_zh": "困惑;茫然;费解",
+      "quote_en": "Miss Maudie looked at me with an expression of mild perplexity.",
+      "quote_zh": "莫迪小姐看着我，脸上带着一丝温和的困惑。",
+      "ex_en": "In moments of perplexity, the soul grows room for wisdom that certainty could never hold.",
+      "ex_zh": "在困惑的时刻，灵魂为确定性永远无法容纳的智慧腾出了空间。"
+    },
+    {
+      "word": "vaguely",
+      "chapter": "Chapter 14",
+      "pron": "/ˈveɪɡli/",
+      "def_en": "In a way that is uncertain, indefinite, or unclear; roughly or approximately.",
+      "def_zh": "模糊地;隐约地;大致上",
+      "quote_en": "Dill said vaguely, \"They just wasn't interested in me.\"",
+      "quote_zh": "迪尔含含糊糊地说：“他们——对我漠不关心。”",
+      "ex_en": "We feel vaguely what we cannot yet understand, and in that feeling lies the seed of all knowing.",
+      "ex_zh": "我们模糊地感受到那些尚不能理解的事物，而在这感受之中，蕴藏着一切认知的种子。"
+    },
+    {
+      "word": "ominous",
+      "chapter": "Chapter 15",
+      "pron": "/ˈɑːmɪnəs/",
+      "def_en": "Giving the impression that something bad or unpleasant is going to happen; threatening.",
+      "def_zh": "不祥的;恶兆的;预兆的",
+      "quote_en": "There was a murmur among the group of men, made more ominous when Atticus moved back to the bottom front step and the men drew nearer to him.",
+      "quote_zh": "人群里泛起一片嘤嘤嗡嗡的议论声，当阿迪克斯退到台阶边上，人群也向他靠拢过来，这声音显得更加不祥。",
+      "ex_en": "The most ominous silences are not those that precede storms, but those that follow truths too painful to speak.",
+      "ex_zh": "最不祥的沉默不是暴风雨前的沉默，而是那些紧随难以言说的真相之后的沉默。"
+    },
+    {
+      "word": "acquiescence",
+      "chapter": "Chapter 15",
+      "pron": "/ˌækwiˈesns/",
+      "def_en": "The reluctant acceptance of something without protest; passive agreement.",
+      "def_zh": "默许;顺从; acquiescence",
+      "quote_en": "We were accustomed to prompt, if not always cheerful, acquiescence to Atticus's instructions.",
+      "quote_zh": "对于阿迪克斯发出的命令，我们虽然并不总是心甘情愿地接受，但也已经习惯了马上照办。",
+      "ex_en": "True strength is not found in constant resistance, but in knowing when acquiescence serves a higher purpose.",
+      "ex_zh": "真正的力量不在于不断的抵抗，而在于知道何时默许服务于更高的目的。"
+    },
+    {
+      "word": "connivance",
+      "chapter": "Chapter 15",
+      "pron": "/kəˈnaɪvəns/",
+      "def_en": "Willingness to secretly allow or be involved in wrongdoing; conspiracy; secret involvement in illegal activity.",
+      "def_zh": "纵容;默许;共谋",
+      "quote_en": "Judge Taylor dismissed the case, declaring \"champertous connivance.\"",
+      "quote_zh": "泰勒法官驳回了案子，宣称这是“帮诉共谋”。",
+      "ex_en": "The worst evils flourish not through the actions of the wicked alone, but through the connivance of the good who remain silent.",
+      "ex_zh": "最糟糕的邪恶不仅通过恶人的行为猖獗，还通过保持沉默的好人的纵容而猖獗。"
+    },
+    {
+      "word": "champertous",
+      "chapter": "Chapter 15",
+      "pron": "/ˈtʃæmpərtəs/",
+      "def_en": "(Legal term) An illegal situation in which a person not a party to a lawsuit helps the plaintiff or defendant carry on the litigation, often in return for a share of the disputed property.",
+      "def_zh": "包揽诉讼的;帮诉的",
+      "quote_en": "When asked upon what grounds, Judge Taylor said, \"Champertous connivance,\" and declared he hoped to God the litigants were satisfied by each having had their public say.",
+      "quote_zh": "有人问他这么做有什么依据，他说了两个字，“助讼”，并宣布，既然双方当事人已经当众做了一番陈情，希望他们全都心满意足了。",
+      "ex_en": "The law's most arcane terms remind us that justice, however imperfect, must never be bought or sold like merchandise in a marketplace.",
+      "ex_zh": "法律中最晦涩的术语提醒我们，正义，无论多么不完美，绝不能像市场上的商品一样被买卖。"
+    },
+    {
+      "word": "formidable",
+      "chapter": "Chapter 15",
+      "pron": "/ˈfɔːrmɪdəbl/",
+      "def_en": "Inspiring fear or respect through being impressively large, powerful, intense, or capable.",
+      "def_zh": "可怕的;令人敬畏的;难以对付的",
+      "quote_en": "From any angle, Aunt Alexandra was formidable.",
+      "quote_zh": "不管从哪个角度看，亚历山德拉姑姑的体态都令人触目惊心。",
+      "ex_en": "The most formidable opponents we face are not those who stand against us, but the fears within us that whisper we are not enough.",
+      "ex_zh": "我们面对的最可怕的对手，并非那些站在我们对立面的人，而是我们内心低语着我们不够好的那些恐惧。"
+    },
+    {
+      "word": "venerable",
+      "chapter": "Chapter 16",
+      "pron": "/ˈvenərəbl/",
+      "def_en": "Accorded a great deal of respect, especially because of age, wisdom, or character.",
+      "def_zh": "值得尊敬的;德高望重的;古老的",
+      "quote_en": "The Maycomb jail was the most venerable and hideous of the county's buildings.",
+      "quote_zh": "梅科姆监狱是县里最庄严肃穆，也是最丑陋的建筑。",
+      "ex_en": "A venerable institution, like an ancient tree, shelters those who seek its wisdom and bears witness to passing generations.",
+      "ex_zh": "一个值得尊敬的机构，如同古树，庇护着寻求其智慧的人，见证着世代更迭。"
+    },
+    {
+      "word": "ecclesiastical",
+      "chapter": "Chapter 16",
+      "pron": "/ɪˌkliːziˈæstɪkl/",
+      "def_en": "Relating to the Christian Church or its clergy.",
+      "def_zh": "基督教会的;与教会有关的",
+      "quote_en": "Its fantasy was heightened by its red brick facade and the thick steel bars at its ecclesiastical windows.",
+      "quote_zh": "红砖外墙和教堂式窗户上粗实的铁栅栏更增添了荒诞效果。",
+      "ex_en": "Even the most ecclesiastical windows cannot contain the human spirit, which seeks light beyond all bars.",
+      "ex_zh": "即使是最像教堂的窗户也无法禁锢人类的精神，它在一切铁栏之外寻找光明。"
+    },
+    {
+      "word": "impedimenta",
+      "chapter": "Chapter 16",
+      "pron": "/ɪmˌpedɪˈmentə/",
+      "def_en": "Objects that impede or obstruct progress; equipment or supplies that are cumbersome or burdensome.",
+      "def_zh": "妨碍物;累赘;辎重",
+      "quote_en": "There was no sign of piano, organ, hymn-books, church programs- the familiar ecclesiastical impedimenta we saw every Sunday.",
+      "quote_zh": "这里也看不到钢琴、管风琴、唱诗本和教会活动手册——要说起来，这些本是教会必备的，我们每个星期天都能看到。",
+      "ex_en": "The soul needs no impedimenta to find God; it travels lightest when burdened only by love.",
+      "ex_zh": "灵魂寻找上帝不需要任何累赘；当它只背负着爱时，行囊最轻。"
+    },
+    {
+      "word": "indignant",
+      "chapter": "Chapter 16",
+      "pron": "/ɪnˈdɪɡnənt/",
+      "def_en": "Feeling or showing anger or annoyance at what is perceived as unfair treatment.",
+      "def_zh": "愤慨的;愤怒的;义愤的",
+      "quote_en": "Lula was a troublemaker from way back, got fancy ideas an' haughty ways.",
+      "quote_zh": "卢拉从老早以前就爱惹是生非，满脑子怪念头，而且蛮横无礼。",
+      "ex_en": "Righteous indignation can move mountains, but only when it is rooted in love, not merely in being wronged.",
+      "ex_zh": "义愤可以移山，但只有当它根植于爱，而不仅仅是因为被亏待时。"
+    },
+    {
+      "word": "linin'",
+      "chapter": "Chapter 16",
+      "pron": "/ˈlaɪnɪŋ/",
+      "def_en": "(Colloquial) A method of singing hymns where a leader reads or sings a line and the congregation repeats it.",
+      "def_zh": "逐行领读(唱诗方式)",
+      "quote_en": "Zeebo cleared his throat and read in a voice like the rumble of distant artillery.",
+      "quote_zh": "泽布清清嗓子，开始朗读歌词，声音就像从远处传来的隆隆炮声。",
+      "ex_en": "In the absence of books, the voice becomes the vessel of faith, passed from one generation to the next through the simple act of call and response.",
+      "ex_zh": "在没有书本的地方，声音成为信仰的载体，通过简单的呼唤与回应，代代相传。"
+    },
+    {
+      "word": "contradicted",
+      "chapter": "Chapter 17",
+      "pron": "/ˌkɑːntrəˈdɪktɪd/",
+      "def_en": "Denied the truth of a statement by asserting the opposite; challenged or opposed.",
+      "def_zh": "反驳;驳斥;与…矛盾",
+      "quote_en": "The state has not produced one iota of medical evidence to the effect that the crime Tom Robinson is charged with ever took place. It has relied instead upon the testimony of two witnesses whose evidence has not only been called into serious question on cross-examination, but has been flatly contradicted by the defendant.",
+      "quote_zh": "控方拿不出一丝一毫的医学证据来证明汤姆·鲁宾逊被指控的罪行确实发生过。恰恰相反，这个指控只是建立在控方两位证人的证词上，而他们所提供的证据，不但在交叉讯问过程中漏洞百出，而且遭到了被告的断然否认。",
+      "ex_en": "Truth does not fear being contradicted; falsehood cannot survive it.",
+      "ex_zh": "真理不怕被反驳；谎言无法在反驳中幸存。"
+    },
+    {
+      "word": "impassive",
+      "chapter": "Chapter 17",
+      "pron": "/ɪmˈpæsɪv/",
+      "def_en": "Not feeling or showing emotion; calm and composed; expressionless.",
+      "def_zh": "冷漠的;无动于衷的;面无表情的",
+      "quote_en": "Mr. Cunningham's face was equally impassive.",
+      "quote_zh": "坎宁安先生也一样面无表情。",
+      "ex_en": "An impassive face may hide a heart raging with storms, teaching us that courage is not the absence of feeling but the mastery of it.",
+      "ex_zh": "面无表情可能掩盖着一颗风暴肆虐的心，这告诉我们，勇气不是没有感觉，而是掌控感觉。"
+    },
+    {
+      "word": "vehemently",
+      "chapter": "Chapter 17",
+      "pron": "/ˈviːəməntli/",
+      "def_en": "In a strong and emotional way; with intense feeling or conviction; passionately.",
+      "def_zh": "激烈地;强烈地; vehemently",
+      "quote_en": "Atticus shook his head vehemently.",
+      "quote_zh": "阿迪克斯拼命摇头。",
+      "ex_en": "The truth, spoken vehemently by one with courage, can shatter centuries of silence and ignite the conscience of a nation.",
+      "ex_zh": "由勇敢者激烈说出的真相，能够打破数个世纪的沉默，点燃一个民族的良心。"
+    },
+    {
+      "word": "ambidextrous",
+      "chapter": "Chapter 17",
+      "pron": "/ˌæmbiˈdekstrəs/",
+      "def_en": "Able to use the right and left hands equally well.",
+      "def_zh": "左右手都灵巧的;两手并用的",
+      "quote_en": "\"About your writing with your left hand, are you ambidextrous, Mr. Ewell?\" \"I most positively am not, I can use one hand good as the other. One hand good as the other.\"",
+      "quote_zh": "“关于你用左手写字这件事儿，尤厄尔先生，你是两手并用吗？”“当然不是。我这只手跟另一只手一样好用，两只手一样灵活。”",
+      "ex_en": "True skill is not in which hand we use, but in the heart we bring to every task.",
+      "ex_zh": "真正的技艺不在于我们用哪只手，而在于我们为每项任务带来的那颗心。"
+    },
+    {
+      "word": "contradict",
+      "chapter": "Chapter 17",
+      "pron": "/ˌkɑːntrəˈdɪkt/",
+      "def_en": "Deny the truth of a statement by asserting the opposite; be in conflict with.",
+      "def_zh": "反驳;驳斥;与…矛盾",
+      "quote_en": "\"Don't you contradict me\\!\" Mrs. Dubose bawled.",
+      "quote_zh": "“别跟我顶嘴！”杜博斯太太吼道。",
+      "ex_en": "To contradict another requires courage; to contradict oneself requires wisdom.",
+      "ex_zh": "反驳他人需要勇气；反驳自己需要智慧。"
+    },
+    {
+      "word": "articulate",
+      "chapter": "Chapter 18",
+      "pron": "/ɑːrˈtɪkjuleɪt/",
+      "def_en": "Able to express thoughts and feelings easily and clearly; fluent and coherent.",
+      "def_zh": "表达清晰的;口齿伶俐的",
+      "quote_en": "Suddenly Mayella became articulate. \"I got somethin' to say,\" she said.",
+      "quote_zh": "突然，马耶拉变得口齿清楚起来。“我有话要说。”她说。",
+      "ex_en": "To be articulate is not merely to speak, but to speak in such a way that another can hear not just words, but meaning.",
+      "ex_zh": "表达清晰不仅仅是说话，而是以一种让听者不仅能听到言辞，更能听到意义的方式说话。"
+    },
+    {
+      "word": "ferocity",
+      "chapter": "Chapter 18",
+      "pron": "/fəˈrɑːsəti/",
+      "def_en": "The state or quality of being ferocious; savage fierceness.",
+      "def_zh": "凶猛;残暴; ferocity",
+      "quote_en": "She answered no more questions, even when Mr. Gilmer tried to get her back on the track.",
+      "quote_zh": "她再也不回答任何问题，就连吉尔莫先生也无法让她回心转意。",
+      "ex_en": "The ferocity of the wounded often masks the depth of their wounds, crying out not for battle but for healing.",
+      "ex_zh": "受伤者的凶猛往往掩盖了他们伤口的深度，他们呼喊的不是战斗，而是治愈。"
+    },
+    {
+      "word": "contempt",
+      "chapter": "Chapter 18",
+      "pron": "/kənˈtempt/",
+      "def_en": "The feeling that a person or a thing is beneath consideration, worthless, or deserving scorn.",
+      "def_zh": "轻视;蔑视; contempt",
+      "quote_en": "I guess if she hadn't been so poor and ignorant, Judge Taylor would have put her under the jail for the contempt she had shown everybody in the courtroom.",
+      "quote_zh": "我猜，要不是因为她可怜无知，就凭她在大庭广众之下把谁都不放在眼里，泰勒法官早就以藐视法庭为由把她送进监狱了。",
+      "ex_en": "Contempt is the weapon of those who have no other argument, the shield of those afraid to feel.",
+      "ex_zh": "蔑视是那些没有其他论据之人的武器，是那些害怕感受之人的盾牌。"
+    },
+    {
+      "word": "crippled",
+      "chapter": "Chapter 19",
+      "pron": "/ˈkrɪpld/",
+      "def_en": "Severely damaged or malfunctioning; disabled or impaired in a way that limits normal function.",
+      "def_zh": "残疾的;残废的;受损的",
+      "quote_en": "His left arm was fully twelve inches shorter than his right, and hung dead at his side. It ended in a small shriveled hand, and from as far away as the balcony I could see that it was no use to him.",
+      "quote_zh": "他的左臂竟然比右臂短了足有十二英寸，疲弱无力地耷拉在体侧。左臂末端是一只皱缩的手，即使从看台上隔着这么远的距离望过去，我也能看得出来那是只废手。",
+      "ex_en": "A body may be crippled, but a spirit that knows its own worth soars beyond the reach of any physical limitation.",
+      "ex_zh": "身体可能残疾，但一个知晓自身价值的灵魂能够超越任何身体局限所能及的范围。"
+    },
+    {
+      "word": "timidity",
+      "chapter": "Chapter 19",
+      "pron": "/tɪˈmɪdəti/",
+      "def_en": "Lack of courage or confidence; shyness; fearfulness.",
+      "def_zh": "胆怯;羞怯; timid",
+      "quote_en": "There was no timidity in Tom Robinson's testimony, only the quiet dignity of truth.",
+      "quote_zh": "汤姆·鲁宾逊的证词中没有胆怯，只有真相的安静尊严。",
+      "ex_en": "Timidity is not the opposite of courage; it is courage waiting for the right moment to speak.",
+      "ex_zh": "胆怯不是勇气的对立面；它是勇气在等待说话的正确时机。"
+    },
+    {
+      "word": "demeanor",
+      "chapter": "Chapter 19",
+      "pron": "/dɪˈmiːnər/",
+      "def_en": "Outward behavior or bearing; conduct; manner.",
+      "def_zh": "行为;举止;态度",
+      "quote_en": "Tom Robinson's demeanor on the stand was quiet and respectful.",
+      "quote_zh": "汤姆·鲁宾逊在证人席上的举止安静而恭敬。",
+      "ex_en": "A quiet demeanor often speaks louder than any words, revealing a soul at peace with itself.",
+      "ex_zh": "安静的行为往往比任何言语都响亮，揭示了一个与自己和平相处的灵魂。"
+    },
+    {
+      "word": "contradiction",
+      "chapter": "Chapter 19",
+      "pron": "/ˌkɑːntrəˈdɪkʃn/",
+      "def_en": "A combination of statements, ideas, or features that are opposed to one another; inconsistency.",
+      "def_zh": "矛盾;对立;不一致",
+      "quote_en": "There was no contradiction in Tom's testimony; he told the truth simply and directly.",
+      "quote_zh": "汤姆的证词中没有矛盾；他简单直接地说了真话。",
+      "ex_en": "The human heart is a living contradiction, capable of both great evil and greater good, and in that tension lies our choice.",
+      "ex_zh": "人心是一个活生生的矛盾，既能行大恶，也能行大善，而在这张力之中，存在着我们的选择。"
+    },
+    {
+      "word": "cynical",
+      "chapter": "Chapter 20",
+      "pron": "/ˈsɪnɪkl/",
+      "def_en": "Believing that people are motivated purely by self-interest; distrustful of human sincerity or integrity.",
+      "def_zh": "愤世嫉俗的;冷嘲热讽的",
+      "quote_en": "Dill said, \"I ain't cynical, Miss Alexandra. Tellin' the truth's not cynical, is it?\"",
+      "quote_zh": "“我没有讽刺挖苦，亚历山德拉小姐。实话实说不是讽刺挖苦，对不对？”迪尔说。",
+      "ex_en": "The cynical heart builds walls to protect itself, not knowing that the only thing worth protecting is the vulnerability that lets love in.",
+      "ex_zh": "愤世嫉俗的心筑起高墙以自我保护，却不知唯一值得保护的，是让爱进入的脆弱。"
+    },
+    {
+      "word": "corrupting",
+      "chapter": "Chapter 20",
+      "pron": "/kəˈrʌptɪŋ/",
+      "def_en": "Causing someone to act dishonestly or immorally; depraving; tainting.",
+      "def_zh": "腐蚀;使堕落; corrupting",
+      "quote_en": "Mr. Dolphus Raymond was evidently taking delight in corrupting a child.",
+      "quote_zh": "多尔夫斯·雷蒙德先生显然把怂恿小孩学坏当成了一件乐事。",
+      "ex_en": "The world is full of forces corrupting the innocent, but the innocent heart that keeps its innocence despite the world is the truest miracle.",
+      "ex_zh": "世界充满了腐蚀纯真的力量，但那个在世间保持纯真的心是最真实的奇迹。"
+    },
+    {
+      "word": "futile",
+      "chapter": "Chapter 20",
+      "pron": "/ˈfjuːtaɪl/",
+      "def_en": "Incapable of producing any useful result; pointless; useless.",
+      "def_zh": "无效的;无用的;徒劳的",
+      "quote_en": "\"It ain't honest but it's mighty helpful to folks.\"",
+      "quote_zh": "“这样是不诚实的，但对旁人来说是大有好处的。”",
+      "ex_en": "The most futile battles are those fought against the truth, which stands unmoved by our denial.",
+      "ex_zh": "最徒劳的战斗是与真相的战斗，真相在我们的否认中岿然不动。"
+    },
+    {
+      "word": "infallible",
+      "chapter": "Chapter 20",
+      "pron": "/ɪnˈfæləbl/",
+      "def_en": "Incapable of making mistakes or being wrong; never failing; always effective.",
+      "def_zh": "绝对可靠的;永无过失的;万无一失的",
+      "quote_en": "Atticus said no one's judgment was infallible, not even a judge's.",
+      "quote_zh": "阿迪克斯说，没有人的判断是绝对可靠的，即使是法官也不例外。",
+      "ex_en": "Only the heart that knows its own fallibility can begin to approach wisdom, which belongs to the humble alone.",
+      "ex_zh": "只有知道自己可能犯错的心，才能开始接近智慧，而智慧只属于谦卑者。"
+    },
+    {
+      "word": "perpetrate",
+      "chapter": "Chapter 20",
+      "pron": "/ˈpɜːrpətreɪt/",
+      "def_en": "To commit or carry out (a harmful, illegal, or immoral action).",
+      "def_zh": "犯下;实施(有害、违法或不道德的行为)",
+      "quote_en": "\"I've no intention of letting it go,\" Uncle Jack said. \"The idea of perpetrating such a fraud on himself.\"",
+      "quote_zh": "“我没打算放过他，”杰克叔叔说。“他竟然对自己犯下这样的欺骗。”",
+      "ex_en": "The greatest frauds are not those we perpetrate on others, but the lies we tell ourselves about who we are.",
+      "ex_zh": "最大的欺骗不是我们加诸于人的，而是我们对自己是谁所说的谎言。"
+    },
+    {
+      "word": "persecution",
+      "chapter": "Chapter 26",
+      "pron": "/ˌpɜːrsɪˈkjuːʃn/",
+      "def_en": "Hostility and ill-treatment, especially because of race or political or religious beliefs.",
+      "def_zh": "迫害;残害;虐待",
+      "quote_en": "Miss Gates said the Jews have been persecuted since the beginning of history.",
+      "quote_zh": "盖茨小姐说，犹太人自有史以来一直不断遭受迫害。",
+      "ex_en": "Persecution burns bodies but cannot touch the soul that knows its own worth, for freedom is the birthright of every soul.",
+      "ex_zh": "迫害可以焚烧肉体，却无法触及知晓自身价值的灵魂，因为自由是每个灵魂与生俱来的权利。"
+    },
+    {
+      "word": "prejudice",
+      "chapter": "Chapter 26",
+      "pron": "/ˈpredʒudɪs/",
+      "def_en": "Preconceived opinion that is not based on reason or actual experience; bias; intolerance.",
+      "def_zh": "偏见;成见;歧视",
+      "quote_en": "\"Persecution comes from people who are prejudiced,\" Miss Gates said.",
+      "quote_zh": "“迫害，都是来自那些怀有偏见的人。”盖茨小姐说。",
+      "ex_en": "Prejudice is the prison we build for others, not knowing that we are locking ourselves inside with them.",
+      "ex_zh": "偏见是我们为他人建造的监狱，却不知我们也把自己和他们一起锁在了里面。"
+    },
+    {
+      "word": "democracy",
+      "chapter": "Chapter 26",
+      "pron": "/dɪˈmɑːkrəsi/",
+      "def_en": "A system of government by the whole population, typically through elected representatives.",
+      "def_zh": "民主;民主制度; democracy",
+      "quote_en": "Miss Gates printed DEMOCRACY on the blackboard.",
+      "quote_zh": "盖茨小姐在黑板上写下了“民主”两个字。",
+      "ex_en": "Democracy is not merely a system of government; it is a daily practice of seeing the humanity in those with whom we disagree.",
+      "ex_zh": "民主不仅仅是一种政府制度；它是一种日常实践，是在那些我们不同意的人身上看到人性。"
+    },
+    {
+      "word": "hypocrisy",
+      "chapter": "Chapter 26",
+      "pron": "/hɪˈpɑːkrəsi/",
+      "def_en": "The practice of claiming to have moral standards or beliefs to which one's own behavior does not conform; pretense.",
+      "def_zh": "虚伪;伪善; hypocrisy",
+      "quote_en": "I was beginning to notice a subtle change in my father.",
+      "quote_zh": "我开始注意到父亲身上微妙的变化。",
+      "ex_en": "The sharpest weapon against hypocrisy is not anger, but the quiet consistency of a life lived with integrity.",
+      "ex_zh": "对抗虚伪最锋利的武器不是愤怒，而是正直生活的安静一致性。"
+    },
+    {
+      "word": "notoriety",
+      "chapter": "Chapter 27",
+      "pron": "/ˌnoʊtəˈraɪəti/",
+      "def_en": "The state of being famous or well known for some bad quality or deed.",
+      "def_zh": "臭名昭著;声名狼藉; notoriety",
+      "quote_en": "His brief burst of fame brought on a briefer burst of industry.",
+      "quote_zh": "短暂的一夜成名给他带来的只是更为短暂的勤劳精神。",
+      "ex_en": "Notoriety is fame's shadow, sought by those who cannot tell the difference between being known and being known for something worthy.",
+      "ex_zh": "声名狼藉是名声的影子，被那些分不清“被人知晓”和“因值得之事被知晓”区别的人所追求。"
+    },
+    {
+      "word": "accommodate",
+      "chapter": "Chapter 27",
+      "pron": "/əˈkɑːmədeɪt/",
+      "def_en": "To fit in with the wishes or needs of; to provide space for; to adapt.",
+      "def_zh": "容纳;向…提供住处;适应",
+      "quote_en": "He had to stoop a little to accommodate me.",
+      "quote_zh": "他得稍稍弓起身子，才能与我挽臂同行。",
+      "ex_en": "Love accommodates without losing itself; it bends without breaking, making room for another while standing firm in its own truth.",
+      "ex_zh": "爱在不失自我的情况下容纳他人；它弯曲而不折断，为他人腾出空间，同时坚守自己的真相。"
+    },
+    {
+      "word": "connivance",
+      "chapter": "Chapter 27",
+      "pron": "/kəˈnaɪvəns/",
+      "def_en": "Willingness to secretly allow or be involved in wrongdoing; conspiracy; secret involvement in illegal activity.",
+      "def_zh": "纵容;默许;共谋",
+      "quote_en": "The Ewells lived as guests of the county, with the tacit connivance of the citizens.",
+      "quote_zh": "尤厄尔一家作为县里的客人生活着，得到了市民们的默许。",
+      "ex_en": "The worst evils flourish not through the actions of the wicked alone, but through the connivance of the good who remain silent.",
+      "ex_zh": "最糟糕的邪恶不仅通过恶人的行为猖獗，还通过保持沉默的好人的纵容而猖獗。"
+    },
+    {
+      "word": "malevolent",
+      "chapter": "Chapter 28",
+      "pron": "/məˈlevələnt/",
+      "def_en": "Having or showing a wish to do evil to others; having an evil or harmful influence.",
+      "def_zh": "恶意的;恶毒的;有恶意的",
+      "quote_en": "The night seemed malevolent, full of unseen dangers.",
+      "quote_zh": "夜晚似乎充满了恶意，隐藏着看不见的危险。",
+      "ex_en": "Before we label another's heart as malevolent, we must first examine whether it is their nature or our fear that casts the shadow.",
+      "ex_zh": "在我们给别人的心贴上恶毒的标签之前，必须首先审视，投射出阴影的究竟是他们的本性，还是我们自己的恐惧。"
+    },
+    {
+      "word": "irascible",
+      "chapter": "Chapter 28",
+      "pron": "/ɪˈræsəbl/",
+      "def_en": "Having or showing a tendency to be easily angered.",
+      "def_zh": "易怒的;暴躁的; irascible",
+      "quote_en": "High above us, a mocker poured out his repertoire, plunging from the shrill kee, kee of the sunflower bird to the irascible qua-ack of a bluejay.",
+      "quote_zh": "在我们头顶高处，一只知更鸟唱出它的全部曲目，从向日葵鸟尖利的“叽叽”声，转为冠蓝鸦暴躁的“嘎嘎”大叫。",
+      "ex_en": "The irascible soul is not angry at the world, but at the wounds it carries and cannot name.",
+      "ex_zh": "易怒的灵魂不是对世界愤怒，而是对它所携带却无法命名的伤口愤怒。"
+    },
+    {
+      "word": "pandemonium",
+      "chapter": "Chapter 28",
+      "pron": "/ˌpændəˈmoʊniəm/",
+      "def_en": "Wild and noisy disorder or confusion; uproar.",
+      "def_zh": "一片混乱;喧嚣; pandemonium",
+      "quote_en": "There was pandemonium in the yard.",
+      "quote_zh": "院子里一片混乱。",
+      "ex_en": "In the midst of pandemonium, the still small voice of truth can still be heard by those who know how to listen.",
+      "ex_zh": "在喧嚣混乱之中，真理那安静微小的声音仍能被那些懂得倾听的人听到。"
+    },
+    {
+      "word": "incomprehensible",
+      "chapter": "Chapter 29",
+      "pron": "/ɪnˌkɑːmprɪˈhensəbl/",
+      "def_en": "Not able to be understood; not intelligible.",
+      "def_zh": "无法理解的; incomprehensible",
+      "quote_en": "It was incomprehensible to me that anyone would want to hurt Jem.",
+      "quote_zh": "我无法理解为什么会有人想伤害杰姆。",
+      "ex_en": "What is incomprehensible to the mind is often perfectly clear to the heart, which understands without words.",
+      "ex_zh": "头脑无法理解的事，心往往完全明白，它无需言语就能理解。"
+    },
+    {
+      "word": "gaunt",
+      "chapter": "Chapter 29",
+      "pron": "/ɡɔːnt/",
+      "def_en": "Lean and haggard, especially because of suffering, hunger, or age.",
+      "def_zh": "憔悴的;骨瘦如柴的; gaunt",
+      "quote_en": "His face was gaunt in the dim light.",
+      "quote_zh": "昏暗的灯光下，他的脸显得憔悴。",
+      "ex_en": "A gaunt face may tell stories of suffering that words could never capture, speaking in lines what the tongue cannot utter.",
+      "ex_zh": "憔悴的面容可能诉说着言语永远无法捕捉的苦难故事，用皱纹诉说着舌头无法说出的话。"
+    },
+    {
+      "word": "timid",
+      "chapter": "Chapter 29",
+      "pron": "/ˈtɪmɪd/",
+      "def_en": "Showing a lack of courage or confidence; easily frightened.",
+      "def_zh": "胆怯的;羞怯的; timid",
+      "quote_en": "A timid smile crept across his face.",
+      "quote_zh": "他脸上掠过一丝羞怯的微笑。",
+      "ex_en": "Timidity is not the opposite of courage; it is courage waiting for the right moment to speak.",
+      "ex_zh": "胆怯不是勇气的对立面；它是勇气在等待说话的正确时机。"
+    },
+    {
+      "word": "shrouded",
+      "chapter": "Chapter 29",
+      "pron": "/ˈʃraʊdɪd/",
+      "def_en": "Covered or hidden; wrapped in or as if in a shroud.",
+      "def_zh": "遮蔽的;覆盖的; shrouded",
+      "quote_en": "The truth of what happened that night remained shrouded in mystery.",
+      "quote_zh": "那晚发生的事仍然笼罩在神秘之中。",
+      "ex_en": "The most important truths are often shrouded in silence, waiting for the right heart to uncover them.",
+      "ex_zh": "最重要的真相往往被沉默笼罩，等待着正确的心去发现。"
+    },
+    {
+      "word": "exodus",
+      "chapter": "Chapter 30",
+      "pron": "/ˈeksədəs/",
+      "def_en": "A mass departure of people.",
+      "def_zh": "大批离去;出走; exodus",
+      "quote_en": "There was an exodus from the courtroom when the verdict was read.",
+      "quote_zh": "判决宣读时，法庭里的人大批离去。",
+      "ex_en": "Every ending is an exodus from one state of being into another, a crossing over that requires courage to complete.",
+      "ex_zh": "每一个结局都是从一种存在状态到另一种存在状态的出走，是一次需要勇气才能完成的跨越。"
+    },
+    {
+      "word": "vehemently",
+      "chapter": "Chapter 30",
+      "pron": "/ˈviːəməntli/",
+      "def_en": "In a strong and emotional way; with intense feeling or conviction; passionately.",
+      "def_zh": "激烈地;强烈地; vehemently",
+      "quote_en": "Atticus shook his head vehemently.",
+      "quote_zh": "阿迪克斯拼命摇头。",
+      "ex_en": "The truth, spoken vehemently by one with courage, can shatter centuries of silence and ignite the conscience of a nation.",
+      "ex_zh": "由勇敢者激烈说出的真相，能够打破数个世纪的沉默，点燃一个民族的良心。"
+    },
+    {
+      "word": "starkly",
+      "chapter": "Chapter 30",
+      "pron": "/ˈstɑːrkli/",
+      "def_en": "In a way that is sharply defined; in a way that is harshly simple or severe.",
+      "def_zh": "鲜明地; starkly;明显地",
+      "quote_en": "The contrast between their stories was starkly evident.",
+      "quote_zh": "他们故事之间的对比非常明显。",
+      "ex_en": "Truth and falsehood stand starkly opposed, but between them lies the vast territory of human self-deception.",
+      "ex_zh": "真相与谎言鲜明对立，但在它们之间，是人类自欺的广阔地带。"
+    },
+    {
+      "word": "impassive",
+      "chapter": "Chapter 30",
+      "pron": "/ɪmˈpæsɪv/",
+      "def_en": "Not feeling or showing emotion; calm and composed; expressionless.",
+      "def_zh": "冷漠的;无动于衷的;面无表情的",
+      "quote_en": "Atticus remained impassive throughout the confrontation.",
+      "quote_zh": "在整个对峙过程中，阿迪克斯始终面无表情。",
+      "ex_en": "An impassive face may hide a heart raging with storms, teaching us that courage is not the absence of feeling but the mastery of it.",
+      "ex_zh": "面无表情可能掩盖着一颗风暴肆虐的心，这告诉我们，勇气不是没有感觉，而是掌控感觉。"
+    },
+    {
+      "word": "phantom",
+      "chapter": "Chapter 31",
+      "pron": "/ˈfæntəm/",
+      "def_en": "A ghost; something apparent to sense but with no substantial existence.",
+      "def_zh": "幽灵;幻影; phantom",
+      "quote_en": "The phantom of Boo Radley haunted our childhood.",
+      "quote_zh": "怪人拉德利的幽灵萦绕着我们的童年。",
+      "ex_en": "The phantoms that haunt us are not ghosts of the dead, but the living memories of those we have failed to understand.",
+      "ex_zh": "萦绕我们的幽灵不是死者的鬼魂，而是那些我们未能理解的人的鲜活记忆。"
+    },
+    {
+      "word": "recluse",
+      "chapter": "Chapter 31",
+      "pron": "/ˈrekluːs/",
+      "def_en": "A person who lives a solitary life and tends to avoid other people.",
+      "def_zh": "隐居者;隐士; recluse",
+      "quote_en": "What reasonable recluse wants children peeping through his shutters?",
+      "quote_zh": "有哪个头脑正常的隐士愿意让一帮孩子透过百叶窗偷窥他？",
+      "ex_en": "The recluse does not hate the world; they have simply found that the world's noise drowns out the quiet voice within.",
+      "ex_zh": "隐士并非憎恨世界，他们只是发现世界的喧嚣淹没了内心的安静声音。"
+    },
+    {
+      "word": "shrouded",
+      "chapter": "Chapter 31",
+      "pron": "/ˈʃraʊdɪd/",
+      "def_en": "Covered or hidden; wrapped in or as if in a shroud.",
+      "def_zh": "遮蔽的;覆盖的; shrouded",
+      "quote_en": "The neighborhood was shrouded in darkness.",
+      "quote_zh": "整个街区笼罩在黑暗中。",
+      "ex_en": "The most important truths are often shrouded in silence, waiting for the right heart to uncover them.",
+      "ex_zh": "最重要的真相往往被沉默笼罩，等待着正确的心去发现。"
+    },
+    {
+      "word": "gaunt",
+      "chapter": "Chapter 31",
+      "pron": "/ɡɔːnt/",
+      "def_en": "Lean and haggard, especially because of suffering, hunger, or age.",
+      "def_zh": "憔悴的;骨瘦如柴的; gaunt",
+      "quote_en": "His face was gaunt in the dim light of the street lamp.",
+      "quote_zh": "路灯昏暗的光线下，他的脸显得憔悴。",
+      "ex_en": "A gaunt face may tell stories of suffering that words could never capture, speaking in lines what the tongue cannot utter.",
+      "ex_zh": "憔悴的面容可能诉说着言语永远无法捕捉的苦难故事，用皱纹诉说着舌头无法说出的话。"
+    },
+    {
+      "word": "timid",
+      "chapter": "Chapter 31",
+      "pron": "/ˈtɪmɪd/",
+      "def_en": "Showing a lack of courage or confidence; easily frightened.",
+      "def_zh": "胆怯的;羞怯的; timid",
+      "quote_en": "A timid smile crept across his face.",
+      "quote_zh": "他脸上掠过一丝羞怯的微笑。",
+      "ex_en": "Timidity is not the opposite of courage; it is courage waiting for the right moment to speak.",
+      "ex_zh": "胆怯不是勇气的对立面；它是勇气在等待说话的正确时机。"
+    },
+    {
+      "word": "neighbors",
+      "chapter": "Chapter 31",
+      "pron": "/ˈneɪbərz/",
+      "def_en": "People living next door or very near to someone; fellow human beings.",
+      "def_zh": "邻居;邻人;同胞",
+      "quote_en": "Neighbors bring food with death and flowers with sickness and little things in between. Boo was our neighbor.",
+      "quote_zh": "街坊邻居之间，要是谁家里死了人，大家会送去吃的；谁家里有人生病，大家会送上鲜花；遇上不大不小的事情，大家会送些小礼物。怪人也是我们的邻居。",
+      "ex_en": "In the end, we are all neighbors on this small earth, called to bring what we have to those in need, expecting nothing in return.",
+      "ex_zh": "归根结底，我们都是这个小小地球上的邻居，被召唤着把我们拥有的带给需要的人，不期待任何回报。"
+    }
+  ],
+  "synan": {
+    "assuaged": {
+      "syn": [
+        "relieved",
+        "soothed",
+        "eased",
+        "alleviated",
+        "mitigated"
+      ],
+      "ant": [
+        "aggravated",
+        "intensified",
+        "worsened",
+        "heightened"
+      ]
+    },
+    "malevolent": {
+      "syn": [
+        "malicious",
+        "spiteful",
+        "vindictive",
+        "evil",
+        "hostile"
+      ],
+      "ant": [
+        "benevolent",
+        "kind",
+        "compassionate",
+        "good-natured"
+      ]
+    },
+    "taciturn": {
+      "syn": [
+        "silent",
+        "reserved",
+        "reticent",
+        "uncommunicative",
+        "tight-lipped"
+      ],
+      "ant": [
+        "talkative",
+        "loquacious",
+        "garrulous",
+        "communicative"
+      ]
+    },
+    "impotent": {
+      "syn": [
+        "powerless",
+        "helpless",
+        "ineffective",
+        "weak",
+        "feeble"
+      ],
+      "ant": [
+        "powerful",
+        "strong",
+        "potent",
+        "effective"
+      ]
+    },
+    "unsullied": {
+      "syn": [
+        "untainted",
+        "pure",
+        "unspoiled",
+        "immaculate",
+        "pristine"
+      ],
+      "ant": [
+        "sullied",
+        "tainted",
+        "stained",
+        "polluted",
+        "corrupted"
+      ]
+    },
+    "auspicious": {
+      "syn": [
+        "favorable",
+        "promising",
+        "propitious",
+        "fortunate",
+        "opportune"
+      ],
+      "ant": [
+        "inauspicious",
+        "unfavorable",
+        "ominous",
+        "foreboding"
+      ]
+    },
+    "indigenous": {
+      "syn": [
+        "native",
+        "local",
+        "original",
+        "endemic",
+        "autochthonous"
+      ],
+      "ant": [
+        "foreign",
+        "alien",
+        "exotic",
+        "imported",
+        "non-native"
+      ]
+    },
+    "condescended": {
+      "syn": [
+        "patronized",
+        "deigned",
+        "stooped",
+        "lowered oneself"
+      ],
+      "ant": [
+        "respected",
+        "honored",
+        "esteemed",
+        "admired"
+      ]
+    },
+    "profane": {
+      "syn": [
+        "vulgar",
+        "obscene",
+        "blasphemous",
+        "irreverent",
+        "sacrilegious"
+      ],
+      "ant": [
+        "sacred",
+        "holy",
+        "reverent",
+        "pious",
+        "devout"
+      ]
+    },
+    "diminutive": {
+      "syn": [
+        "tiny",
+        "small",
+        "miniature",
+        "petite",
+        "minute"
+      ],
+      "ant": [
+        "enormous",
+        "immense",
+        "colossal",
+        "gigantic",
+        "huge"
+      ]
+    },
+    "contentious": {
+      "syn": [
+        "quarrelsome",
+        "argumentative",
+        "disputatious",
+        "belligerent",
+        "combative"
+      ],
+      "ant": [
+        "agreeable",
+        "amicable",
+        "peaceful",
+        "conciliatory"
+      ]
+    },
+    "vaguely": {
+      "syn": [
+        "obscurely",
+        "indistinctly",
+        "faintly",
+        "dimly",
+        "ambiguously"
+      ],
+      "ant": [
+        "clearly",
+        "distinctly",
+        "precisely",
+        "sharply",
+        "definitely"
+      ]
+    },
+    "entailment": {
+      "syn": [
+        "inheritance",
+        "estate",
+        "bequest",
+        "legacy",
+        "settlement"
+      ],
+      "ant": [
+        "dispossession",
+        "forfeiture",
+        "relinquishment"
+      ]
+    },
+    "onslaught": {
+      "syn": [
+        "assault",
+        "attack",
+        "offensive",
+        "charge",
+        "barrage"
+      ],
+      "ant": [
+        "retreat",
+        "withdrawal",
+        "defense",
+        "resistance"
+      ]
+    },
+    "compromise": {
+      "syn": [
+        "agreement",
+        "settlement",
+        "concession",
+        "accommodation",
+        "understanding"
+      ],
+      "ant": [
+        "disagreement",
+        "conflict",
+        "intransigence",
+        "stubbornness"
+      ]
+    },
+    "vapid": {
+      "syn": [
+        "dull",
+        "bland",
+        "insipid",
+        "uninteresting",
+        "tedious",
+        "banal"
+      ],
+      "ant": [
+        "stimulating",
+        "exciting",
+        "engaging",
+        "vibrant",
+        "lively"
+      ]
+    },
+    "erratic": {
+      "syn": [
+        "unpredictable",
+        "inconsistent",
+        "unreliable",
+        "unstable",
+        "capricious"
+      ],
+      "ant": [
+        "consistent",
+        "steady",
+        "reliable",
+        "stable",
+        "predictable"
+      ]
+    },
+    "arbitrated": {
+      "syn": [
+        "mediated",
+        "adjudicated",
+        "negotiated",
+        "reconciled",
+        "judged"
+      ],
+      "ant": [
+        "disputed",
+        "contested",
+        "argued",
+        "quarreled"
+      ]
+    },
+    "torment": {
+      "syn": [
+        "anguish",
+        "suffering",
+        "agony",
+        "pain",
+        "misery",
+        "distress"
+      ],
+      "ant": [
+        "comfort",
+        "solace",
+        "relief",
+        "peace",
+        "contentment"
+      ]
+    },
+    "repertoire": {
+      "syn": [
+        "collection",
+        "stock",
+        "range",
+        "repertory",
+        "reservoir"
+      ],
+      "ant": [
+        "lack",
+        "deficiency",
+        "shortage",
+        "paucity"
+      ]
+    },
+    "edification": {
+      "syn": [
+        "enlightenment",
+        "instruction",
+        "education",
+        "guidance",
+        "teaching"
+      ],
+      "ant": [
+        "confusion",
+        "bewilderment",
+        "ignorance",
+        "obscurity"
+      ]
+    },
+    "asinine": {
+      "syn": [
+        "foolish",
+        "stupid",
+        "silly",
+        "idiotic",
+        "moronic",
+        "brainless"
+      ],
+      "ant": [
+        "intelligent",
+        "wise",
+        "sensible",
+        "prudent",
+        "clever"
+      ]
+    },
+    "inquisitive": {
+      "syn": [
+        "curious",
+        "inquiring",
+        "questioning",
+        "probing",
+        "prying"
+      ],
+      "ant": [
+        "indifferent",
+        "uninterested",
+        "apathetic",
+        "incurious"
+      ]
+    },
+    "benevolence": {
+      "syn": [
+        "kindness",
+        "compassion",
+        "generosity",
+        "goodwill",
+        "humanity"
+      ],
+      "ant": [
+        "malevolence",
+        "cruelty",
+        "spite",
+        "malice",
+        "unkindness"
+      ]
+    },
+    "cordially": {
+      "syn": [
+        "warmly",
+        "heartily",
+        "genially",
+        "affably",
+        "graciously"
+      ],
+      "ant": [
+        "coldly",
+        "hostilely",
+        "unpleasantly",
+        "rudely",
+        "icily"
+      ]
+    },
+    "reverent": {
+      "syn": [
+        "respectful",
+        "worshipful",
+        "devout",
+        "pious",
+        "adoring"
+      ],
+      "ant": [
+        "irreverent",
+        "disrespectful",
+        "blasphemous",
+        "profane"
+      ]
+    },
+    "assurance": {
+      "syn": [
+        "confidence",
+        "certainty",
+        "conviction",
+        "guarantee",
+        "pledge"
+      ],
+      "ant": [
+        "doubt",
+        "uncertainty",
+        "hesitation",
+        "insecurity"
+      ]
+    },
+    "acquiescence": {
+      "syn": [
+        "compliance",
+        "consent",
+        "agreement",
+        "acceptance",
+        "submission"
+      ],
+      "ant": [
+        "resistance",
+        "opposition",
+        "defiance",
+        "rebellion"
+      ]
+    },
+    "perplexity": {
+      "syn": [
+        "confusion",
+        "bewilderment",
+        "puzzlement",
+        "mystification",
+        "uncertainty"
+      ],
+      "ant": [
+        "clarity",
+        "understanding",
+        "comprehension",
+        "certainty"
+      ]
+    },
+    "contemptuous": {
+      "syn": [
+        "scornful",
+        "disdainful",
+        "derisive",
+        "disrespectful",
+        "insulting"
+      ],
+      "ant": [
+        "respectful",
+        "admiring",
+        "appreciative",
+        "honoring"
+      ]
+    },
+    "scowling": {
+      "syn": [
+        "frowning",
+        "glowering",
+        "grimacing",
+        "sulking"
+      ],
+      "ant": [
+        "smiling",
+        "grinning",
+        "beaming",
+        "laughing"
+      ]
+    },
+    "meditative": {
+      "syn": [
+        "thoughtful",
+        "contemplative",
+        "reflective",
+        "pensive",
+        "ruminative"
+      ],
+      "ant": [
+        "thoughtless",
+        "impulsive",
+        "rash",
+        "unthinking"
+      ]
+    },
+    "perpetrated": {
+      "syn": [
+        "committed",
+        "carried out",
+        "executed",
+        "enacted",
+        "inflicted"
+      ],
+      "ant": [
+        "prevented",
+        "stopped",
+        "averted",
+        "avoided"
+      ]
+    },
+    "prophets": {
+      "syn": [
+        "seers",
+        "oracles",
+        "visionaries",
+        "diviners",
+        "forecasters"
+      ],
+      "ant": [
+        "skeptics",
+        "doubters",
+        "cynics",
+        "realists"
+      ]
+    },
+    "unsociable": {
+      "syn": [
+        "withdrawn",
+        "aloof",
+        "reclusive",
+        "solitary",
+        "antisocial"
+      ],
+      "ant": [
+        "sociable",
+        "gregarious",
+        "friendly",
+        "outgoing",
+        "affable"
+      ]
+    },
+    "morphodite": {
+      "syn": [
+        "hermaphrodite",
+        "hybrid",
+        "mixture",
+        "anomaly",
+        "oddity"
+      ],
+      "ant": [
+        "purebred",
+        "pure",
+        "unmixed",
+        "standard"
+      ]
+    },
+    "inordinately": {
+      "syn": [
+        "excessively",
+        "immoderately",
+        "unduly",
+        "overly",
+        "disproportionately"
+      ],
+      "ant": [
+        "moderately",
+        "reasonably",
+        "temperately",
+        "appropriately"
+      ]
+    },
+    "provocation": {
+      "syn": [
+        "incitement",
+        "stimulus",
+        "instigation",
+        "aggravation",
+        "annoyance"
+      ],
+      "ant": [
+        "appeasement",
+        "pacification",
+        "calming",
+        "soothing"
+      ]
+    },
+    "umbrage": {
+      "syn": [
+        "resentment",
+        "offense",
+        "annoyance",
+        "pique",
+        "indignation"
+      ],
+      "ant": [
+        "pleasure",
+        "delight",
+        "satisfaction",
+        "gratification"
+      ]
+    },
+    "dictum": {
+      "syn": [
+        "pronouncement",
+        "declaration",
+        "edict",
+        "proclamation",
+        "mandate"
+      ],
+      "ant": [
+        "suggestion",
+        "hint",
+        "recommendation",
+        "proposal"
+      ]
+    },
+    "feeble": {
+      "syn": [
+        "weak",
+        "frail",
+        "fragile",
+        "infirm",
+        "delicate"
+      ],
+      "ant": [
+        "strong",
+        "powerful",
+        "robust",
+        "sturdy",
+        "vigorous"
+      ]
+    },
+    "contemporaries": {
+      "syn": [
+        "peers",
+        "equals",
+        "fellows",
+        "counterparts",
+        "coevals"
+      ],
+      "ant": [
+        "ancestors",
+        "predecessors",
+        "descendants",
+        "successors"
+      ]
+    },
+    "inconspicuous": {
+      "syn": [
+        "unobtrusive",
+        "unnoticeable",
+        "discreet",
+        "modest",
+        "low-key"
+      ],
+      "ant": [
+        "conspicuous",
+        "noticeable",
+        "prominent",
+        "obvious",
+        "striking"
+      ]
+    },
+    "marksmanship": {
+      "syn": [
+        "shooting skill",
+        "accuracy",
+        "precision",
+        "aim",
+        "expertise"
+      ],
+      "ant": [
+        "inaccuracy",
+        "clumsiness",
+        "ineptitude"
+      ]
+    },
+    "attributes": {
+      "syn": [
+        "qualities",
+        "characteristics",
+        "traits",
+        "features",
+        "properties"
+      ],
+      "ant": [
+        "lacks",
+        "deficiencies",
+        "shortcomings",
+        "flaws"
+      ]
+    },
+    "apoplectic": {
+      "syn": [
+        "furious",
+        "enraged",
+        "incensed",
+        "livid",
+        "irate",
+        "seething"
+      ],
+      "ant": [
+        "calm",
+        "composed",
+        "placid",
+        "serene",
+        "unruffled"
+      ]
+    },
+    "philippic": {
+      "syn": [
+        "tirade",
+        "diatribe",
+        "rant",
+        "invective",
+        "denunciation"
+      ],
+      "ant": [
+        "praise",
+        "accolade",
+        "compliment",
+        "encomium",
+        "tribute"
+      ]
+    },
+    "devoid": {
+      "syn": [
+        "lacking",
+        "empty",
+        "void",
+        "destitute",
+        "bereft"
+      ],
+      "ant": [
+        "full",
+        "filled",
+        "replete",
+        "abundant",
+        "brimming"
+      ]
+    },
+    "cordiality": {
+      "syn": [
+        "warmth",
+        "friendliness",
+        "affability",
+        "geniality",
+        "sincerity"
+      ],
+      "ant": [
+        "coldness",
+        "hostility",
+        "unfriendliness",
+        "aloofness"
+      ]
+    },
+    "vicious": {
+      "syn": [
+        "brutal",
+        "cruel",
+        "savage",
+        "ferocious",
+        "malignant"
+      ],
+      "ant": [
+        "gentle",
+        "kind",
+        "benevolent",
+        "humane",
+        "compassionate"
+      ]
+    },
+    "formidable": {
+      "syn": [
+        "intimidating",
+        "daunting",
+        "fearsome",
+        "impressive",
+        "awe-inspiring"
+      ],
+      "ant": [
+        "weak",
+        "feeble",
+        "insignificant",
+        "unimpressive",
+        "pathetic"
+      ]
+    },
+    "oppressive": {
+      "syn": [
+        "overbearing",
+        "tyrannical",
+        "repressive",
+        "crushing",
+        "burdensome"
+      ],
+      "ant": [
+        "liberating",
+        "freeing",
+        "light",
+        "easy",
+        "gentle"
+      ]
+    },
+    "indignant": {
+      "syn": [
+        "angry",
+        "incensed",
+        "outraged",
+        "aggrieved",
+        "resentful"
+      ],
+      "ant": [
+        "pleased",
+        "delighted",
+        "happy",
+        "content",
+        "satisfied"
+      ]
+    },
+    "sternly": {
+      "syn": [
+        "strictly",
+        "harshly",
+        "severely",
+        "rigorously",
+        "grimly"
+      ],
+      "ant": [
+        "gently",
+        "kindly",
+        "leniently",
+        "mildly",
+        "softly"
+      ]
+    },
+    "linin'": {
+      "syn": [
+        "lining out",
+        "call and response",
+        "hymn singing",
+        "responsive reading"
+      ],
+      "ant": [
+        "silence",
+        "unison singing",
+        "instrumental music"
+      ]
+    },
+    "prerogative": {
+      "syn": [
+        "privilege",
+        "right",
+        "advantage",
+        "entitlement",
+        "license"
+      ],
+      "ant": [
+        "duty",
+        "obligation",
+        "disadvantage",
+        "restriction"
+      ]
+    },
+    "incurable": {
+      "syn": [
+        "hopeless",
+        "irremediable",
+        "terminal",
+        "fatal",
+        "inveterate"
+      ],
+      "ant": [
+        "curable",
+        "remediable",
+        "treatable",
+        "recoverable"
+      ]
+    },
+    "uncompromising": {
+      "syn": [
+        "unyielding",
+        "inflexible",
+        "adamant",
+        "steadfast",
+        "rigid"
+      ],
+      "ant": [
+        "flexible",
+        "yielding",
+        "accommodating",
+        "compromising"
+      ]
+    },
+    "obscurely": {
+      "syn": [
+        "vaguely",
+        "ambiguously",
+        "opaquely",
+        "enigmatically",
+        "cryptically"
+      ],
+      "ant": [
+        "clearly",
+        "plainly",
+        "distinctly",
+        "transparently"
+      ]
+    },
+    "melancholy": {
+      "syn": [
+        "sadness",
+        "gloom",
+        "despondency",
+        "dejection",
+        "dolefulness"
+      ],
+      "ant": [
+        "happiness",
+        "joy",
+        "cheerfulness",
+        "elation",
+        "exhilaration"
+      ]
+    },
+    "ingenious": {
+      "syn": [
+        "clever",
+        "inventive",
+        "creative",
+        "resourceful",
+        "imaginative"
+      ],
+      "ant": [
+        "unimaginative",
+        "unoriginal",
+        "uncreative",
+        "dull",
+        "stupid"
+      ]
+    },
+    "stealthy": {
+      "syn": [
+        "sneaky",
+        "sly",
+        "furtive",
+        "clandestine",
+        "covert",
+        "surreptitious"
+      ],
+      "ant": [
+        "open",
+        "overt",
+        "aboveboard",
+        "candid",
+        "forthright"
+      ]
+    },
+    "ominous": {
+      "syn": [
+        "threatening",
+        "menacing",
+        "sinister",
+        "foreboding",
+        "portentous"
+      ],
+      "ant": [
+        "auspicious",
+        "promising",
+        "favorable",
+        "reassuring",
+        "encouraging"
+      ]
+    },
+    "connivance": {
+      "syn": [
+        "collusion",
+        "complicity",
+        "conspiracy",
+        "abetment",
+        "tolerance"
+      ],
+      "ant": [
+        "opposition",
+        "resistance",
+        "prevention",
+        "hindrance"
+      ]
+    },
+    "champertous": {
+      "syn": [
+        "meddlesome",
+        "interfering",
+        "officious",
+        "litigious"
+      ],
+      "ant": [
+        "disinterested",
+        "uninvolved",
+        "detached",
+        "noninterfering"
+      ]
+    },
+    "venerable": {
+      "syn": [
+        "esteemed",
+        "respected",
+        "revered",
+        "honored",
+        "august"
+      ],
+      "ant": [
+        "disrespected",
+        "ignoble",
+        "disreputable",
+        "contemptible"
+      ]
+    },
+    "ecclesiastical": {
+      "syn": [
+        "churchly",
+        "clerical",
+        "religious",
+        "spiritual",
+        "sacred"
+      ],
+      "ant": [
+        "secular",
+        "lay",
+        "temporal",
+        "profane",
+        "mundane"
+      ]
+    },
+    "impedimenta": {
+      "syn": [
+        "baggage",
+        "equipment",
+        "gear",
+        "paraphernalia",
+        "encumbrances"
+      ],
+      "ant": [
+        "essentials",
+        "necessities",
+        "bare minimum"
+      ]
+    },
+    "contradicted": {
+      "syn": [
+        "refuted",
+        "disputed",
+        "challenged",
+        "gainsaid",
+        "opposed"
+      ],
+      "ant": [
+        "confirmed",
+        "supported",
+        "verified",
+        "corroborated",
+        "endorsed"
+      ]
+    },
+    "impassive": {
+      "syn": [
+        "stoic",
+        "expressionless",
+        "unemotional",
+        "placid",
+        "composed"
+      ],
+      "ant": [
+        "emotional",
+        "expressive",
+        "animated",
+        "passionate",
+        "demonstrative"
+      ]
+    },
+    "vehemently": {
+      "syn": [
+        "passionately",
+        "forcefully",
+        "ardently",
+        "intensely",
+        "fervently"
+      ],
+      "ant": [
+        "mildly",
+        "gently",
+        "tepidly",
+        "halfheartedly",
+        "apathetically"
+      ]
+    },
+    "ambidextrous": {
+      "syn": [
+        "two-handed",
+        "versatile",
+        "adaptable",
+        "flexible"
+      ],
+      "ant": [
+        "clumsy",
+        "inept",
+        "maladroit",
+        "uncoordinated"
+      ]
+    },
+    "contradict": {
+      "syn": [
+        "refute",
+        "dispute",
+        "gainsay",
+        "oppose",
+        "challenge"
+      ],
+      "ant": [
+        "agree",
+        "concur",
+        "confirm",
+        "verify",
+        "support"
+      ]
+    },
+    "articulate": {
+      "syn": [
+        "eloquent",
+        "fluent",
+        "expressive",
+        "coherent",
+        "communicative"
+      ],
+      "ant": [
+        "inarticulate",
+        "mumbling",
+        "hesitant",
+        "unclear",
+        "incoherent"
+      ]
+    },
+    "ferocity": {
+      "syn": [
+        "fierceness",
+        "savagery",
+        "brutality",
+        "violence",
+        "intensity"
+      ],
+      "ant": [
+        "gentleness",
+        "mildness",
+        "docility",
+        "meekness"
+      ]
+    },
+    "contempt": {
+      "syn": [
+        "scorn",
+        "disdain",
+        "derision",
+        "disrespect",
+        "disregard"
+      ],
+      "ant": [
+        "respect",
+        "admiration",
+        "esteem",
+        "regard",
+        "reverence"
+      ]
+    },
+    "crippled": {
+      "syn": [
+        "disabled",
+        "handicapped",
+        "impaired",
+        "damaged",
+        "debilitated"
+      ],
+      "ant": [
+        "able-bodied",
+        "healthy",
+        "robust",
+        "whole",
+        "unimpaired"
+      ]
+    },
+    "timidity": {
+      "syn": [
+        "shyness",
+        "diffidence",
+        "hesitance",
+        "reserve",
+        "meekness"
+      ],
+      "ant": [
+        "confidence",
+        "boldness",
+        "audacity",
+        "bravery",
+        "courage"
+      ]
+    },
+    "demeanor": {
+      "syn": [
+        "bearing",
+        "conduct",
+        "behavior",
+        "manner",
+        "comportment"
+      ],
+      "ant": [
+        "misbehavior",
+        "impropriety",
+        "unruliness"
+      ]
+    },
+    "contradiction": {
+      "syn": [
+        "inconsistency",
+        "discrepancy",
+        "incongruity",
+        "opposition",
+        "conflict"
+      ],
+      "ant": [
+        "agreement",
+        "consistency",
+        "harmony",
+        "accord",
+        "correspondence"
+      ]
+    },
+    "cynical": {
+      "syn": [
+        "skeptical",
+        "distrustful",
+        "suspicious",
+        "doubtful",
+        "pessimistic"
+      ],
+      "ant": [
+        "trusting",
+        "optimistic",
+        "idealistic",
+        "hopeful",
+        "believing"
+      ]
+    },
+    "corrupting": {
+      "syn": [
+        "depraving",
+        "perverting",
+        "tainting",
+        "polluting",
+        "degrading"
+      ],
+      "ant": [
+        "purifying",
+        "uplifting",
+        "ennobling",
+        "improving"
+      ]
+    },
+    "futile": {
+      "syn": [
+        "pointless",
+        "useless",
+        "vain",
+        "fruitless",
+        "ineffective"
+      ],
+      "ant": [
+        "useful",
+        "effective",
+        "productive",
+        "fruitful",
+        "worthwhile"
+      ]
+    },
+    "infallible": {
+      "syn": [
+        "unerring",
+        "faultless",
+        "perfect",
+        "flawless",
+        "impeccable"
+      ],
+      "ant": [
+        "fallible",
+        "imperfect",
+        "flawed",
+        "faulty",
+        "erroneous"
+      ]
+    },
+    "perpetrate": {
+      "syn": [
+        "commit",
+        "carry out",
+        "execute",
+        "enact",
+        "inflict"
+      ],
+      "ant": [
+        "prevent",
+        "stop",
+        "avert",
+        "avoid",
+        "frustrate"
+      ]
+    },
+    "persecution": {
+      "syn": [
+        "oppression",
+        "victimization",
+        "torment",
+        "harassment",
+        "mistreatment"
+      ],
+      "ant": [
+        "protection",
+        "defense",
+        "safeguard",
+        "support",
+        "succor"
+      ]
+    },
+    "prejudice": {
+      "syn": [
+        "bias",
+        "bigotry",
+        "intolerance",
+        "discrimination",
+        "partisanship"
+      ],
+      "ant": [
+        "fairness",
+        "impartiality",
+        "objectivity",
+        "tolerance",
+        "open-mindedness"
+      ]
+    },
+    "democracy": {
+      "syn": [
+        "republic",
+        "self-government",
+        "representative government",
+        "commonwealth"
+      ],
+      "ant": [
+        "dictatorship",
+        "autocracy",
+        "tyranny",
+        "oligarchy",
+        "monarchy"
+      ]
+    },
+    "hypocrisy": {
+      "syn": [
+        "insincerity",
+        "duplicity",
+        "pretense",
+        "deceit",
+        "dishonesty"
+      ],
+      "ant": [
+        "sincerity",
+        "honesty",
+        "integrity",
+        "genuineness",
+        "authenticity"
+      ]
+    },
+    "notoriety": {
+      "syn": [
+        "infamy",
+        "disrepute",
+        "ill fame",
+        "scandal",
+        "bad reputation"
+      ],
+      "ant": [
+        "fame",
+        "renown",
+        "celebrity",
+        "repute",
+        "distinction"
+      ]
+    },
+    "accommodate": {
+      "syn": [
+        "adapt",
+        "adjust",
+        "oblige",
+        "assist",
+        "accommodation"
+      ],
+      "ant": [
+        "resist",
+        "oppose",
+        "hinder",
+        "obstruct",
+        "inconvenience"
+      ]
+    },
+    "irascible": {
+      "syn": [
+        "irritable",
+        "testy",
+        "touchy",
+        "cranky",
+        "petulant",
+        "cantankerous"
+      ],
+      "ant": [
+        "even-tempered",
+        "placid",
+        "calm",
+        "serene",
+        "good-natured"
+      ]
+    },
+    "pandemonium": {
+      "syn": [
+        "chaos",
+        "uproar",
+        "tumult",
+        "mayhem",
+        "disorder",
+        "confusion"
+      ],
+      "ant": [
+        "order",
+        "peace",
+        "tranquility",
+        "calm",
+        "serenity"
+      ]
+    },
+    "incomprehensible": {
+      "syn": [
+        "unfathomable",
+        "unintelligible",
+        "baffling",
+        "bewildering",
+        "perplexing"
+      ],
+      "ant": [
+        "comprehensible",
+        "understandable",
+        "clear",
+        "intelligible"
+      ]
+    },
+    "gaunt": {
+      "syn": [
+        "haggard",
+        "emaciated",
+        "drawn",
+        "wasted",
+        "skeletal",
+        "cadaverous"
+      ],
+      "ant": [
+        "plump",
+        "chubby",
+        "well-fed",
+        "rotund",
+        "corpulent"
+      ]
+    },
+    "timid": {
+      "syn": [
+        "shy",
+        "diffident",
+        "bashful",
+        "coy",
+        "meek",
+        "fearful"
+      ],
+      "ant": [
+        "bold",
+        "brave",
+        "courageous",
+        "confident",
+        "audacious"
+      ]
+    },
+    "shrouded": {
+      "syn": [
+        "veiled",
+        "cloaked",
+        "concealed",
+        "covered",
+        "hidden",
+        "obscured"
+      ],
+      "ant": [
+        "revealed",
+        "uncovered",
+        "exposed",
+        "bare",
+        "unveiled"
+      ]
+    },
+    "exodus": {
+      "syn": [
+        "departure",
+        "exit",
+        "withdrawal",
+        "evacuation",
+        "flight"
+      ],
+      "ant": [
+        "arrival",
+        "entrance",
+        "influx",
+        "return",
+        "homecoming"
+      ]
+    },
+    "starkly": {
+      "syn": [
+        "sharply",
+        "clearly",
+        "distinctly",
+        "plainly",
+        "strikingly"
+      ],
+      "ant": [
+        "faintly",
+        "indistinctly",
+        "vaguely",
+        "obscurely"
+      ]
+    },
+    "phantom": {
+      "syn": [
+        "ghost",
+        "specter",
+        "apparition",
+        "spirit",
+        "phantasm"
+      ],
+      "ant": [
+        "reality",
+        "substance",
+        "actuality",
+        "corporeality"
+      ]
+    },
+    "recluse": {
+      "syn": [
+        "hermit",
+        "solitary",
+        "loner",
+        "anchorite",
+        "eremite"
+      ],
+      "ant": [
+        "socialite",
+        "gregarious person",
+        "extrovert",
+        "joiner"
+      ]
+    },
+    "neighbors": {
+      "syn": [
+        "community",
+        "neighborhood",
+        "fellow citizens",
+        "local residents"
+      ],
+      "ant": [
+        "strangers",
+        "foreigners",
+        "outsiders",
+        "aliens"
+      ]
+    }
+  },
+  "meta": {
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": "1960",
+    "wordCount": 119,
+    "generatedAt": "2026-03-20T20:23:16.666Z"
+  }
+}
